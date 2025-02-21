@@ -1,72 +1,79 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Employee Insurance Form</title>
-    <script src="script.js" defer></script>
-    <style>
-        table, th, td {
-            border: 1px solid black;
-            border-collapse: collapse;
-            padding: 8px;
-            text-align: center;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
-</head>
-<body>
-    <h2>Employee Insurance Selection</h2>
-    <label for="employeeSelect">Select Employee:</label>
-    <select id="employeeSelect" onchange="updateEmployeeDetails()">
-        <option value="">-- Select --</option>
-    </select>
-    
-    <h3>Employee Details</h3>
-    <p><strong>Level:</strong> <span id="level"></span></p>
-    <p><strong>Current Sum Insured:</strong> <span id="currentSum"></span></p>
-    <p><strong>Proposed Sum Insured:</strong> <span id="proposedSum"></span></p>
-    
-    <h3>Dependent Insurance Selection</h3>
-    <table>
-        <thead>
-            <tr>
-                <th>Dependent</th>
-                <th>Monthly Premium</th>
-                <th>Response</th>
-                <th>Total Premium</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Spouse</td>
-                <td id="spousePremium">0</td>
-                <td><input type="checkbox" id="spouseCheck" onchange="calculateTotal()"></td>
-                <td id="spouseTotal">0</td>
-            </tr>
-            <tr>
-                <td>Parent 1</td>
-                <td id="parent1Premium">0</td>
-                <td><input type="checkbox" id="parent1Check" onchange="calculateTotal()"></td>
-                <td id="parent1Total">0</td>
-            </tr>
-            <tr>
-                <td>Parent 2</td>
-                <td id="parent2Premium">0</td>
-                <td><input type="checkbox" id="parent2Check" onchange="calculateTotal()"></td>
-                <td id="parent2Total">0</td>
-            </tr>
-            <tr>
-                <td>Children</td>
-                <td id="childrenPremium">0</td>
-                <td><input type="number" id="childrenInput" min="0" value="0" onchange="calculateTotal()"></td>
-                <td id="childrenTotal">0</td>
-            </tr>
-        </tbody>
-    </table>
-    <h3>Total Premium: <span id="totalPremium">0</span></h3>
-    <button onclick="updateActiveMaster()">Update</button>
-</body>
-</html>
+document.addEventListener("DOMContentLoaded", function () {
+    let employees = [];
+    let gradePremiums = {
+        "E1": { self: 600, kid: 300, parent: 500, spouse: 600 },
+        "E2": { self: 600, kid: 300, parent: 500, spouse: 600 },
+        "MM1": { self: 900, kid: 400, parent: 700, spouse: 1000 },
+        "MM2": { self: 900, kid: 400, parent: 700, spouse: 1000 },
+        "SM1": { self: 1500, kid: 600, parent: 1000, spouse: 1500 },
+        "SM2": { self: 1500, kid: 600, parent: 1000, spouse: 1500 },
+        "EM1": { self: 2500, kid: 900, parent: 1500, spouse: 2000 },
+        "EM2": { self: 2500, kid: 900, parent: 1500, spouse: 2000 },
+        "O1": { self: 600, kid: 300, parent: 500, spouse: 600 },
+        "O2": { self: 600, kid: 300, parent: 500, spouse: 600 }
+    };
+
+    fetch('Active_Master.json')
+        .then(response => response.json())
+        .then(data => {
+            employees = data.Active_Master;
+            populateEmployeeDropdown();
+        });
+
+    function populateEmployeeDropdown() {
+        let dropdown = document.getElementById("employeeSelect");
+        employees.forEach(emp => {
+            let option = document.createElement("option");
+            option.value = emp["Employee Code"];
+            option.textContent = emp.Employee;
+            dropdown.appendChild(option);
+        });
+    }
+
+    window.updateEmployeeDetails = function () {
+        let selectedCode = document.getElementById("employeeSelect").value;
+        let selectedEmployee = employees.find(emp => emp["Employee Code"] === selectedCode);
+        if (!selectedEmployee) return;
+
+        document.getElementById("level").textContent = selectedEmployee.Level;
+        document.getElementById("currentSum").textContent = selectedEmployee["Current Sum Insured"];
+        document.getElementById("proposedSum").textContent = selectedEmployee["Proposed Sum insured"];
+        
+        let premiums = gradePremiums[selectedEmployee.Level] || { self: 0, kid: 0, parent: 0, spouse: 0 };
+        document.getElementById("spousePremium").textContent = premiums.spouse;
+        document.getElementById("parentPremium").textContent = premiums.parent;
+        document.getElementById("childrenPremium").textContent = premiums.kid;
+    };
+
+    window.calculateTotal = function () {
+        let selectedCode = document.getElementById("employeeSelect").value;
+        let selectedEmployee = employees.find(emp => emp["Employee Code"] === selectedCode);
+        if (!selectedEmployee) return;
+
+        let premiums = gradePremiums[selectedEmployee.Level] || { self: 0, kid: 0, parent: 0, spouse: 0 };
+
+        let spouseChecked = document.getElementById("spouseCheck").checked;
+        let parentCount = parseInt(document.getElementById("parentSelect").value, 10);
+        let childCount = parseInt(document.getElementById("childrenInput").value, 10);
+
+        let spouseTotal = spouseChecked ? premiums.spouse : 0;
+        let parentTotal = parentCount * premiums.parent;
+        let childrenTotal = childCount * premiums.kid;
+
+        document.getElementById("spouseTotal").textContent = spouseTotal;
+        document.getElementById("parentTotal").textContent = parentTotal;
+        document.getElementById("childrenTotal").textContent = childrenTotal;
+        
+        let total = spouseTotal + parentTotal + childrenTotal;
+        document.getElementById("totalPremium").textContent = total;
+    };
+
+    window.updateActiveMaster = function () {
+        let selectedCode = document.getElementById("employeeSelect").value;
+        let selectedEmployee = employees.find(emp => emp["Employee Code"] === selectedCode);
+        if (!selectedEmployee) return;
+
+        selectedEmployee.NewMonthlyPremium = parseInt(document.getElementById("totalPremium").textContent, 10);
+        console.log("Updated Active_Master:", employees);
+    };
+});
