@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "O2": { self: 600, kid: 300, parent: 500, spouse: 600 }
     };
 
-    fetch('Active_Master.json')
+    fetch('data.json')
         .then(response => response.json())
         .then(data => {
             employees = data.Active_Master;
