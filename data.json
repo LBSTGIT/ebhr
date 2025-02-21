@@ -1,0 +1,20 @@
+[
+    {
+        "name": "John Doe",
+        "detail1": "Software Engineer",
+        "detail2": "New York",
+        "detail3": "5 Years Experience"
+    },
+    {
+        "name": "Jane Smith",
+        "detail1": "Data Analyst",
+        "detail2": "London",
+        "detail3": "3 Years Experience"
+    },
+    {
+        "name": "Alice Johnson",
+        "detail1": "Project Manager",
+        "detail2": "Toronto",
+        "detail3": "7 Years Experience"
+    }
+]
