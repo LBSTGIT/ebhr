@@ -39,9 +39,10 @@ document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("currentSum").textContent = selectedEmployee["Current Sum Insured"];
         document.getElementById("currentPremium").textContent = selectedEmployee["Current Monthly Premium"];
         document.getElementById("proposedSum").textContent = selectedEmployee["Proposed Sum insured"];
-
+        
         let premiums = gradePremiums[selectedEmployee.Level] || { self: 0, kid: 0, parent: 0, spouse: 0 };
         document.getElementById("newPremium").textContent = premiums.self;
+        document.getElementById("selfPremium").textContent = premiums.self;
         document.getElementById("spousePremium").textContent = premiums.spouse;
         document.getElementById("parentPremium").textContent = premiums.parent;
         document.getElementById("childrenPremium").textContent = premiums.kid;
@@ -55,20 +56,23 @@ document.addEventListener("DOMContentLoaded", function () {
         let premiums = gradePremiums[selectedEmployee.Level] || { self: 0, kid: 0, parent: 0, spouse: 0 };
 
         let spouseChecked = document.getElementById("spouseCheck").checked;
-        let parentCount = parseInt(document.getElementById("parentSelect").value, 10) || 0;
-        let childCount = parseInt(document.getElementById("childrenInput").value, 10) || 0;
+        let parentCount = parseInt(document.getElementById("parentSelect").value, 10);
+        let childCount = parseInt(document.getElementById("childrenInput").value, 10);
 
         let spouseTotal = spouseChecked ? premiums.spouse : 0;
         let parentTotal = parentCount * premiums.parent;
         let childrenTotal = childCount * premiums.kid;
+        let selfTotal = premiums.self;
 
+        document.getElementById("spouseTotal").textContent = spouseTotal;
+        document.getElementById("parentTotal").textContent = parentTotal;
+        document.getElementById("childrenTotal").textContent = childrenTotal;
+        document.getElementById("selfPremium").textContent = selfTotal;
+        
         let dependentTotal = spouseTotal + parentTotal + childrenTotal;
         document.getElementById("dependentTotal").textContent = dependentTotal;
-
-        let selfPremium = premiums.self;
-        document.getElementById("selfPremium").textContent = selfPremium;
-
-        let grandTotal = selfPremium + dependentTotal;
+        
+        let grandTotal = selfTotal + dependentTotal;
         document.getElementById("totalPremium").textContent = grandTotal;
     };
 
