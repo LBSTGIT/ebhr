@@ -1,20 +1,4512 @@
-[
+{
+  "Active_Master": [
     {
-        "name": "John Doe",
-        "detail1": "Software Engineer",
-        "detail2": "New York",
-        "detail3": "5 Years Experience"
+      "Employee": "Deepak Chaudhary (HO04)",
+      "Employee Code": "HO04",
+      "Level": "EM1",
+      "Name": "Deepak Chaudhary",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "1200000"
     },
     {
-        "name": "Jane Smith",
-        "detail1": "Data Analyst",
-        "detail2": "London",
-        "detail3": "3 Years Experience"
+      "Employee": "Harish Chandra Joshi (HO08)",
+      "Employee Code": "HO08",
+      "Level": "EM2",
+      "Name": "Harish Chandra Joshi",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "1200000"
     },
     {
-        "name": "Alice Johnson",
-        "detail1": "Project Manager",
-        "detail2": "Toronto",
-        "detail3": "7 Years Experience"
+      "Employee": "Gautam Ghosh (HO09)",
+      "Employee Code": "HO09",
+      "Level": "SM1",
+      "Name": "Gautam Ghosh",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Avijit Roy (HO10)",
+      "Employee Code": "HO10",
+      "Level": "E1",
+      "Name": "Avijit Roy",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Debolina Ghosh (HO13)",
+      "Employee Code": "HO13",
+      "Level": "E1",
+      "Name": "Debolina Ghosh",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Ram Chandra Yadav (HO18)",
+      "Employee Code": "HO18",
+      "Level": "O2",
+      "Name": "Ram Chandra Yadav",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Asish Kumar Nath (HO19)",
+      "Employee Code": "HO19",
+      "Level": "MM2",
+      "Name": "Asish Kumar Nath",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Ajoy Kumar Hazra (HO21)",
+      "Employee Code": "HO21",
+      "Level": "MM2",
+      "Name": "Ajoy Kumar Hazra",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Dipanjan Sarkar (HO24)",
+      "Employee Code": "HO24",
+      "Level": "E1",
+      "Name": "Dipanjan Sarkar",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Manas Chakraborty (HO25)",
+      "Employee Code": "HO25",
+      "Level": "E2",
+      "Name": "Manas Chakraborty",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Pawan Kumar Sharma (HO26)",
+      "Employee Code": "HO26",
+      "Level": "E1",
+      "Name": "Pawan Kumar Sharma",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Somen Das (HO27)",
+      "Employee Code": "HO27",
+      "Level": "E1",
+      "Name": "Somen Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sanjay Paul (HO31)",
+      "Employee Code": "HO31",
+      "Level": "E2",
+      "Name": "Sanjay Paul",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Mousumi Chatterjee (HO33)",
+      "Employee Code": "HO33",
+      "Level": "MM2",
+      "Name": "Mousumi Chatterjee",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Bimal Ghosh (HO35)",
+      "Employee Code": "HO35",
+      "Level": "MM2",
+      "Name": "Bimal Ghosh",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Nani Gopal Laha (HO36)",
+      "Employee Code": "HO36",
+      "Level": "E2",
+      "Name": "Nani Gopal Laha",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Arindam Chatterjee (HO38)",
+      "Employee Code": "HO38",
+      "Level": "SM2",
+      "Name": "Arindam Chatterjee",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Rima Das (HO40)",
+      "Employee Code": "HO40",
+      "Level": "E1",
+      "Name": "Rima Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Buddhadeb Ganrai (HO42)",
+      "Employee Code": "HO42",
+      "Level": "O1",
+      "Name": "Buddhadeb Ganrai",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Ranjan Bhattacharya (HO53)",
+      "Employee Code": "HO53",
+      "Level": "E2",
+      "Name": "Ranjan Bhattacharya",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Prasun Samadder (HO56)",
+      "Employee Code": "HO56",
+      "Level": "E1",
+      "Name": "Prasun Samadder",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Mohammad Murtaza (HO72)",
+      "Employee Code": "HO72",
+      "Level": "E2",
+      "Name": "Mohammad Murtaza",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Swapnajit Dey (HO83)",
+      "Employee Code": "HO83",
+      "Level": "E2",
+      "Name": "Swapnajit Dey",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Indranil Pal (HO90)",
+      "Employee Code": "HO90",
+      "Level": "E2",
+      "Name": "Indranil Pal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Duman Rajak (HO93)",
+      "Employee Code": "HO93",
+      "Level": "E2",
+      "Name": "Duman Rajak",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sajid Rehman Mandal (HO94)",
+      "Employee Code": "HO94",
+      "Level": "MM2",
+      "Name": "Sajid Rehman Mandal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Jitender Kumar Chowdhary (HO96)",
+      "Employee Code": "HO96",
+      "Level": "E1",
+      "Name": "Jitender Kumar Chowdhary",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Kartick Bangal (LBIS0078)",
+      "Employee Code": "LBIS0078",
+      "Level": "E2",
+      "Name": "Kartick Bangal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sk Abdul Rahaman (LBIC0260)",
+      "Employee Code": "LBIC0260",
+      "Level": "E1",
+      "Name": "Sk Abdul Rahaman",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Nirmalya Ghosh (LBIC0261)",
+      "Employee Code": "LBIC0261",
+      "Level": "MM2",
+      "Name": "Nirmalya Ghosh",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Sukumar Sardar (LBIC0270)",
+      "Employee Code": "LBIC0270",
+      "Level": "E1",
+      "Name": "Sukumar Sardar",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Poulam Kumar Maity (LBIC0283)",
+      "Employee Code": "LBIC0283",
+      "Level": "E2",
+      "Name": "Poulam Kumar Maity",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Surajit Maity (LBIC0289)",
+      "Employee Code": "LBIC0289",
+      "Level": "E1",
+      "Name": "Surajit Maity",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Debdas Kotal (LBIC0291)",
+      "Employee Code": "LBIC0291",
+      "Level": "E1",
+      "Name": "Debdas Kotal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Rakesh Kumar Singh (LBIC0296)",
+      "Employee Code": "LBIC0296",
+      "Level": "E1",
+      "Name": "Rakesh Kumar Singh",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sayed Soleman Ali (LBIC0298)",
+      "Employee Code": "LBIC0298",
+      "Level": "E1",
+      "Name": "Sayed Soleman Ali",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Surajit Naskar (LBIC0309)",
+      "Employee Code": "LBIC0309",
+      "Level": "E2",
+      "Name": "Surajit Naskar",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Subrata Singha (LBIC0322)",
+      "Employee Code": "LBIC0322",
+      "Level": "O2",
+      "Name": "Subrata Singha",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Anindita Khan (LBIC0323)",
+      "Employee Code": "LBIC0323",
+      "Level": "MM2",
+      "Name": "Anindita Khan",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Amit Sen (LBIC0324)",
+      "Employee Code": "LBIC0324",
+      "Level": "E2",
+      "Name": "Amit Sen",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Subho Khatua (LBIC0325)",
+      "Employee Code": "LBIC0325",
+      "Level": "E2",
+      "Name": "Subho Khatua",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Amit Saha (LBIC0327)",
+      "Employee Code": "LBIC0327",
+      "Level": "O2",
+      "Name": "Amit Saha",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Bijesh Kanti Mandal (LBIC0328)",
+      "Employee Code": "LBIC0328",
+      "Level": "O2",
+      "Name": "Bijesh Kanti Mandal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Malay Kundu (LBIC0330)",
+      "Employee Code": "LBIC0330",
+      "Level": "E1",
+      "Name": "Malay Kundu",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sudip Chakraborty (LBIC0331)",
+      "Employee Code": "LBIC0331",
+      "Level": "E1",
+      "Name": "Sudip Chakraborty",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Bapan Porel (LBIC0337)",
+      "Employee Code": "LBIC0337",
+      "Level": "O2",
+      "Name": "Bapan Porel",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Arka Sharma (LBIC0354)",
+      "Employee Code": "LBIC0354",
+      "Level": "E1",
+      "Name": "Arka Sharma",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Jitendra Kumar Singh (LBIC0358)",
+      "Employee Code": "LBIC0358",
+      "Level": "MM2",
+      "Name": "Jitendra Kumar Singh",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Vishal Patel (LBIC0362)",
+      "Employee Code": "LBIC0362",
+      "Level": "E2",
+      "Name": "Vishal Patel",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Basudev Dhua (LBIC0367)",
+      "Employee Code": "LBIC0367",
+      "Level": "E2",
+      "Name": "Basudev Dhua",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Utpal Naskar (LBIC0368)",
+      "Employee Code": "LBIC0368",
+      "Level": "E1",
+      "Name": "Utpal Naskar",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sudhir Roy (LBIC0371)",
+      "Employee Code": "LBIC0371",
+      "Level": "E1",
+      "Name": "Sudhir Roy",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Amit Bajaj (LBIC0376)",
+      "Employee Code": "LBIC0376",
+      "Level": "MM1",
+      "Name": "Amit Bajaj",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Tapas Pal (LBIC0393)",
+      "Employee Code": "LBIC0393",
+      "Level": "E2",
+      "Name": "Tapas Pal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Avijit Dutta (LBIC0395)",
+      "Employee Code": "LBIC0395",
+      "Level": "E2",
+      "Name": "Avijit Dutta",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Ananta Pramanik (LBIC0398)",
+      "Employee Code": "LBIC0398",
+      "Level": "E2",
+      "Name": "Ananta Pramanik",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Maniratna Roy (LBIC0404)",
+      "Employee Code": "LBIC0404",
+      "Level": "MM2",
+      "Name": "Maniratna Roy",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Ankit Ashok Tiwari (LBIC0435)",
+      "Employee Code": "LBIC0435",
+      "Level": "E1",
+      "Name": "Ankit Ashok Tiwari",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Rakesh Kumar Singh (LBIC0441)",
+      "Employee Code": "LBIC0441",
+      "Level": "E1",
+      "Name": "Rakesh Kumar Singh",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Raja Mitra (LBIC0442)",
+      "Employee Code": "LBIC0442",
+      "Level": "E2",
+      "Name": "Raja Mitra",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Jayanta Chakraborty (LBIC0443)",
+      "Employee Code": "LBIC0443",
+      "Level": "SM2",
+      "Name": "Jayanta Chakraborty",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Amit Kumar Naskar (LBIC0453)",
+      "Employee Code": "LBIC0453",
+      "Level": "E1",
+      "Name": "Amit Kumar Naskar",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Raj Kumar Halder (LBIC0459)",
+      "Employee Code": "LBIC0459",
+      "Level": "E2",
+      "Name": "Raj Kumar Halder",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Soumitra Pal (LBIC0467)",
+      "Employee Code": "LBIC0467",
+      "Level": "E1",
+      "Name": "Soumitra Pal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Bhanu Sharma (LBIC0468)",
+      "Employee Code": "LBIC0468",
+      "Level": "E2",
+      "Name": "Bhanu Sharma",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Roshan Kumar Prajapati (LBIC0469)",
+      "Employee Code": "LBIC0469",
+      "Level": "E2",
+      "Name": "Roshan Kumar Prajapati",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Abdul Azim (LBIC0470)",
+      "Employee Code": "LBIC0470",
+      "Level": "E2",
+      "Name": "Abdul Azim",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Ardhendu Kulavi (LBIC0473)",
+      "Employee Code": "LBIC0473",
+      "Level": "O2",
+      "Name": "Ardhendu Kulavi",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Abhisekh Kumar Srivastava (LBIC0474)",
+      "Employee Code": "LBIC0474",
+      "Level": "E2",
+      "Name": "Abhisekh Kumar Srivastava",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Ashis Das (LBIC0475)",
+      "Employee Code": "LBIC0475",
+      "Level": "E2",
+      "Name": "Ashis Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Kaushik Mondal (LBIC0478)",
+      "Employee Code": "LBIC0478",
+      "Level": "E2",
+      "Name": "Kaushik Mondal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Soumitra Mondal (LBIC0498)",
+      "Employee Code": "LBIC0498",
+      "Level": "E2",
+      "Name": "Soumitra Mondal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Debashis Mondal (LBIC0499)",
+      "Employee Code": "LBIC0499",
+      "Level": "O2",
+      "Name": "Debashis Mondal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Biswajit Roy (LBIC0500)",
+      "Employee Code": "LBIC0500",
+      "Level": "E2",
+      "Name": "Biswajit Roy",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Subham Mukherjee (LBIC0503)",
+      "Employee Code": "LBIC0503",
+      "Level": "E2",
+      "Name": "Subham Mukherjee",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Banshi Badan Mandal (LBIC0505)",
+      "Employee Code": "LBIC0505",
+      "Level": "E2",
+      "Name": "Banshi Badan Mandal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Diptiman Sinha (LBIC0506)",
+      "Employee Code": "LBIC0506",
+      "Level": "E2",
+      "Name": "Diptiman Sinha",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Ikbal Hossain Mollick (LBIC0508)",
+      "Employee Code": "LBIC0508",
+      "Level": "MM1",
+      "Name": "Ikbal Hossain Mollick",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Niraj Kumar Sinha (LBIC0515)",
+      "Employee Code": "LBIC0515",
+      "Level": "E1",
+      "Name": "Niraj Kumar Sinha",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sanjib Maity (LBIC0519)",
+      "Employee Code": "LBIC0519",
+      "Level": "E1",
+      "Name": "Sanjib Maity",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Tapan Sahoo (LBIC0520)",
+      "Employee Code": "LBIC0520",
+      "Level": "E1",
+      "Name": "Tapan Sahoo",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Poushali Das (LBIC0522)",
+      "Employee Code": "LBIC0522",
+      "Level": "E2",
+      "Name": "Poushali Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Subhadip Konar (LBIC0525)",
+      "Employee Code": "LBIC0525",
+      "Level": "MM1",
+      "Name": "Subhadip Konar",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Kousik Thanader (LBIC0527)",
+      "Employee Code": "LBIC0527",
+      "Level": "E2",
+      "Name": "Kousik Thanader",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Gopinath Samanta (LBIC0529)",
+      "Employee Code": "LBIC0529",
+      "Level": "SM2",
+      "Name": "Gopinath Samanta",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Sagar Saha (LBIC0530)",
+      "Employee Code": "LBIC0530",
+      "Level": "E2",
+      "Name": "Sagar Saha",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Raju Das (LBIC0531)",
+      "Employee Code": "LBIC0531",
+      "Level": "O1",
+      "Name": "Raju Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Prasun Kumar Dey (LBST1070)",
+      "Employee Code": "LBST1070",
+      "Level": "E2",
+      "Name": "Prasun Kumar Dey",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Dipak Kumar Sinha (LBICS019)",
+      "Employee Code": "LBICS019",
+      "Level": "E1",
+      "Name": "Dipak Kumar Sinha",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Tapas Kumar Sasmal (LBICUS04)",
+      "Employee Code": "LBICUS04",
+      "Level": "MM2",
+      "Name": "Tapas Kumar Sasmal",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Abadhouta Maity (LBICUS05)",
+      "Employee Code": "LBICUS05",
+      "Level": "O1",
+      "Name": "Abadhouta Maity",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Ranjan Bar (LBICUS06)",
+      "Employee Code": "LBICUS06",
+      "Level": "E2",
+      "Name": "Ranjan Bar",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Aloke Mondal (LBICUS07)",
+      "Employee Code": "LBICUS07",
+      "Level": "E1",
+      "Name": "Aloke Mondal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Himadri Bhattacharyya (LBICUS10)",
+      "Employee Code": "LBICUS10",
+      "Level": "MM2",
+      "Name": "Himadri Bhattacharyya",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Bikash Giri (LBICUS12)",
+      "Employee Code": "LBICUS12",
+      "Level": "E2",
+      "Name": "Bikash Giri",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sujit Kumar Saha (LBICUS13)",
+      "Employee Code": "LBICUS13",
+      "Level": "E1",
+      "Name": "Sujit Kumar Saha",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Srikanta Khunte (LBICUS14)",
+      "Employee Code": "LBICUS14",
+      "Level": "E1",
+      "Name": "Srikanta Khunte",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Supriyo Mondal (LBICUS24)",
+      "Employee Code": "LBICUS24",
+      "Level": "SM1",
+      "Name": "Supriyo Mondal",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Babai Manna (LBICUS36)",
+      "Employee Code": "LBICUS36",
+      "Level": "E1",
+      "Name": "Babai Manna",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Biplab Manna (LBICUS54)",
+      "Employee Code": "LBICUS54",
+      "Level": "MM1",
+      "Name": "Biplab Manna",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Ashis Pramanik (LBICUS60)",
+      "Employee Code": "LBICUS60",
+      "Level": "SM2",
+      "Name": "Ashis Pramanik",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Paritosh Mondal (LBICUS62)",
+      "Employee Code": "LBICUS62",
+      "Level": "E1",
+      "Name": "Paritosh Mondal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sudipta Kundu (LBICUS64)",
+      "Employee Code": "LBICUS64",
+      "Level": "MM2",
+      "Name": "Sudipta Kundu",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Mrityunjay Bar (LBICUW07)",
+      "Employee Code": "LBICUW07",
+      "Level": "O2",
+      "Name": "Mrityunjay Bar",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Sudhangshu Shee (LBICUW08)",
+      "Employee Code": "LBICUW08",
+      "Level": "O2",
+      "Name": "Sudhangshu Shee",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Ganesh Chandra Sahoo (LBIS0081)",
+      "Employee Code": "LBIS0081",
+      "Level": "MM2",
+      "Name": "Ganesh Chandra Sahoo",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Sanatan Samanta (LBIS0082)",
+      "Employee Code": "LBIS0082",
+      "Level": "E2",
+      "Name": "Sanatan Samanta",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sankari Chatterjee (LBS38)",
+      "Employee Code": "LBS38",
+      "Level": "SM2",
+      "Name": "Sankari Chatterjee",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Raghvendra Kumar Mishra (LBST0002)",
+      "Employee Code": "LBST0002",
+      "Level": "SM2",
+      "Name": "Raghvendra Kumar Mishra",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Niladri Bhattacharyya (LBST0005)",
+      "Employee Code": "LBST0005",
+      "Level": "MM1",
+      "Name": "Niladri Bhattacharyya",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Sudhir Kumar Samal (LBST0007)",
+      "Employee Code": "LBST0007",
+      "Level": "SM2",
+      "Name": "Sudhir Kumar Samal",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Dhaneshwar Mirdha (LBST0009)",
+      "Employee Code": "LBST0009",
+      "Level": "E1",
+      "Name": "Dhaneshwar Mirdha",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Narendra Kumar (LBST0016)",
+      "Employee Code": "LBST0016",
+      "Level": "O2",
+      "Name": "Narendra Kumar",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Ramresh Choudhuri (LBST0017)",
+      "Employee Code": "LBST0017",
+      "Level": "O2",
+      "Name": "Ramresh Choudhuri",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Sreekrishna Kundu (LBST0018)",
+      "Employee Code": "LBST0018",
+      "Level": "MM2",
+      "Name": "Sreekrishna Kundu",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Umesh Kumar Thakur (LBST0020)",
+      "Employee Code": "LBST0020",
+      "Level": "O1",
+      "Name": "Umesh Kumar Thakur",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Sekh Rustam Ali (LBST0021)",
+      "Employee Code": "LBST0021",
+      "Level": "O2",
+      "Name": "Sekh Rustam Ali",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Kuldeep Ram (LBST0023)",
+      "Employee Code": "LBST0023",
+      "Level": "E1",
+      "Name": "Kuldeep Ram",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "G Bhaskar Rao (LBST0036)",
+      "Employee Code": "LBST0036",
+      "Level": "MM2",
+      "Name": "G Bhaskar Rao",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Gagan Bihari Swain (LBST0038)",
+      "Employee Code": "LBST0038",
+      "Level": "O1",
+      "Name": "Gagan Bihari Swain",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Sk Faruk Hossein (LBST0042)",
+      "Employee Code": "LBST0042",
+      "Level": "MM2",
+      "Name": "Sk Faruk Hossein",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Goutam Parui (LBST0055)",
+      "Employee Code": "LBST0055",
+      "Level": "O1",
+      "Name": "Goutam Parui",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Suvam Samal (LBST0059)",
+      "Employee Code": "LBST0059",
+      "Level": "E1",
+      "Name": "Suvam Samal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Debanjan Manna (LBST0063)",
+      "Employee Code": "LBST0063",
+      "Level": "E2",
+      "Name": "Debanjan Manna",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Amit Paik (LBST0064)",
+      "Employee Code": "LBST0064",
+      "Level": "E1",
+      "Name": "Amit Paik",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Bidyut Mondal (LBST0070)",
+      "Employee Code": "LBST0070",
+      "Level": "O1",
+      "Name": "Bidyut Mondal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Sibsankar Malakar (LBST0075)",
+      "Employee Code": "LBST0075",
+      "Level": "O1",
+      "Name": "Sibsankar Malakar",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Srimanta Sahoo (LBST0091)",
+      "Employee Code": "LBST0091",
+      "Level": "E1",
+      "Name": "Srimanta Sahoo",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Pulak Maity (LBST0093)",
+      "Employee Code": "LBST0093",
+      "Level": "O1",
+      "Name": "Pulak Maity",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Nitai Barman (LBST0094)",
+      "Employee Code": "LBST0094",
+      "Level": "O1",
+      "Name": "Nitai Barman",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Debashis Bera (LBST0102)",
+      "Employee Code": "LBST0102",
+      "Level": "MM1",
+      "Name": "Debashis Bera",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Sonit Sahoo (LBST0107)",
+      "Employee Code": "LBST0107",
+      "Level": "O1",
+      "Name": "Sonit Sahoo",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Sayed Maruf Hossain (LBST0114)",
+      "Employee Code": "LBST0114",
+      "Level": "E2",
+      "Name": "Sayed Maruf Hossain",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Uttam Maity (LBST0125)",
+      "Employee Code": "LBST0125",
+      "Level": "E2",
+      "Name": "Uttam Maity",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Arabindo Ghosh (LBST0127)",
+      "Employee Code": "LBST0127",
+      "Level": "E2",
+      "Name": "Arabindo Ghosh",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Shuvankar Rana (LBST0149)",
+      "Employee Code": "LBST0149",
+      "Level": "E2",
+      "Name": "Shuvankar Rana",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Vijay Kumar Sharma (LBST0157)",
+      "Employee Code": "LBST0157",
+      "Level": "MM2",
+      "Name": "Vijay Kumar Sharma",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Suneeta Mishra (LBST0163)",
+      "Employee Code": "LBST0163",
+      "Level": "E2",
+      "Name": "Suneeta Mishra",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sumiran Barik (LBST0165)",
+      "Employee Code": "LBST0165",
+      "Level": "MM2",
+      "Name": "Sumiran Barik",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Sudarshan Kumar Singh (LBST0166)",
+      "Employee Code": "LBST0166",
+      "Level": "E2",
+      "Name": "Sudarshan Kumar Singh",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Samar Maity (LBST0181)",
+      "Employee Code": "LBST0181",
+      "Level": "O1",
+      "Name": "Samar Maity",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Debasish Kayal (LBST0191)",
+      "Employee Code": "LBST0191",
+      "Level": "O2",
+      "Name": "Debasish Kayal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Ranjit Paswan (LBST0210)",
+      "Employee Code": "LBST0210",
+      "Level": "O1",
+      "Name": "Ranjit Paswan",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Manoj Kumar Paswan (LBST0236)",
+      "Employee Code": "LBST0236",
+      "Level": "O1",
+      "Name": "Manoj Kumar Paswan",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Somnath Maity (LBST0238)",
+      "Employee Code": "LBST0238",
+      "Level": "E2",
+      "Name": "Somnath Maity",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Kumar Rahul Raj (LBST0243)",
+      "Employee Code": "LBST0243",
+      "Level": "E1",
+      "Name": "Kumar Rahul Raj",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Binod Sahani (LBST025)",
+      "Employee Code": "LBST025",
+      "Level": "E1",
+      "Name": "Binod Sahani",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Kaleshwar Yadav (LBST0251)",
+      "Employee Code": "LBST0251",
+      "Level": "O2",
+      "Name": "Kaleshwar Yadav",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Shivam Chaturvedi (LBST0254)",
+      "Employee Code": "LBST0254",
+      "Level": "MM2",
+      "Name": "Shivam Chaturvedi",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Kaushik Kundu (LBST0261)",
+      "Employee Code": "LBST0261",
+      "Level": "MM2",
+      "Name": "Kaushik Kundu",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Abhijit Vijaykumar Paliya (LBST0268)",
+      "Employee Code": "LBST0268",
+      "Level": "EM2",
+      "Name": "Abhijit Vijaykumar Paliya",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "1200000"
+    },
+    {
+      "Employee": "Suvam Maity (LBST0275)",
+      "Employee Code": "LBST0275",
+      "Level": "E2",
+      "Name": "Suvam Maity",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Biswanath Mondal (LBST0277)",
+      "Employee Code": "LBST0277",
+      "Level": "E1",
+      "Name": "Biswanath Mondal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sk Rabiul Islam (LBST029)",
+      "Employee Code": "LBST029",
+      "Level": "O2",
+      "Name": "Sk Rabiul Islam",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Akash Das (LBST0292)",
+      "Employee Code": "LBST0292",
+      "Level": "E2",
+      "Name": "Akash Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Ramesh Kumar Rana (LBST0298)",
+      "Employee Code": "LBST0298",
+      "Level": "O2",
+      "Name": "Ramesh Kumar Rana",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Bhaskar Pramanik (LBST0302)",
+      "Employee Code": "LBST0302",
+      "Level": "O1",
+      "Name": "Bhaskar Pramanik",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Sumit Paul (LBST0306)",
+      "Employee Code": "LBST0306",
+      "Level": "MM2",
+      "Name": "Sumit Paul",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Santosh Sahadev Prajapati (LBST0309)",
+      "Employee Code": "LBST0309",
+      "Level": "O2",
+      "Name": "Santosh Sahadev Prajapati",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Nilesh Kumar Ray (LBST031)",
+      "Employee Code": "LBST031",
+      "Level": "O2",
+      "Name": "Nilesh Kumar Ray",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Abhijit Guria (LBST0317)",
+      "Employee Code": "LBST0317",
+      "Level": "E1",
+      "Name": "Abhijit Guria",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Prem Pankaj Kumar Sah (LBST032)",
+      "Employee Code": "LBST032",
+      "Level": "O1",
+      "Name": "Prem Pankaj Kumar Sah",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Malay Kapat (LBST0321)",
+      "Employee Code": "LBST0321",
+      "Level": "E1",
+      "Name": "Malay Kapat",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Rajkishore Parida (LBST0324)",
+      "Employee Code": "LBST0324",
+      "Level": "O2",
+      "Name": "Rajkishore Parida",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Sk Abu Taher (LBST0328)",
+      "Employee Code": "LBST0328",
+      "Level": "E1",
+      "Name": "Sk Abu Taher",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Pinaki Mukherjee (LBST0330)",
+      "Employee Code": "LBST0330",
+      "Level": "E1",
+      "Name": "Pinaki Mukherjee",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Biplab Pramanik (LBST0350)",
+      "Employee Code": "LBST0350",
+      "Level": "E2",
+      "Name": "Biplab Pramanik",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Rakesh Kumar Sahoo (LBST0360)",
+      "Employee Code": "LBST0360",
+      "Level": "MM1",
+      "Name": "Rakesh Kumar Sahoo",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Ananta Chowdhury (LBST0395)",
+      "Employee Code": "LBST0395",
+      "Level": "O1",
+      "Name": "Ananta Chowdhury",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Apurba Kumar Parai (LBST0396)",
+      "Employee Code": "LBST0396",
+      "Level": "O1",
+      "Name": "Apurba Kumar Parai",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Suman Bhunia (LBST0400)",
+      "Employee Code": "LBST0400",
+      "Level": "E1",
+      "Name": "Suman Bhunia",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Debabrata Chakraborty (LBST0415)",
+      "Employee Code": "LBST0415",
+      "Level": "E2",
+      "Name": "Debabrata Chakraborty",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Vijay Shivpratap Tripathi (LBST0438)",
+      "Employee Code": "LBST0438",
+      "Level": "MM1",
+      "Name": "Vijay Shivpratap Tripathi",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Biswajit Parua (LBST044)",
+      "Employee Code": "LBST044",
+      "Level": "O1",
+      "Name": "Biswajit Parua",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Subhankar Shaw (LBST0457)",
+      "Employee Code": "LBST0457",
+      "Level": "E1",
+      "Name": "Subhankar Shaw",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Shilpa Paul (LBST0458)",
+      "Employee Code": "LBST0458",
+      "Level": "E1",
+      "Name": "Shilpa Paul",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Debrup Pratap Patra (LBST0459)",
+      "Employee Code": "LBST0459",
+      "Level": "E2",
+      "Name": "Debrup Pratap Patra",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Shankar Kumar (LBST0460)",
+      "Employee Code": "LBST0460",
+      "Level": "E1",
+      "Name": "Shankar Kumar",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sandeep Ramnath Bhukele (LBST0462)",
+      "Employee Code": "LBST0462",
+      "Level": "SM1",
+      "Name": "Sandeep Ramnath Bhukele",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Amit Samanta (LBST0483)",
+      "Employee Code": "LBST0483",
+      "Level": "E2",
+      "Name": "Amit Samanta",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Prasenjit Sasmal (LBST0493)",
+      "Employee Code": "LBST0493",
+      "Level": "E2",
+      "Name": "Prasenjit Sasmal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Dwijendra Nath Sahoo (LBST0506)",
+      "Employee Code": "LBST0506",
+      "Level": "E2",
+      "Name": "Dwijendra Nath Sahoo",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sarthak Senapati (LBST0511)",
+      "Employee Code": "LBST0511",
+      "Level": "E2",
+      "Name": "Sarthak Senapati",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Alok Kumar Garang (LBST0517)",
+      "Employee Code": "LBST0517",
+      "Level": "MM2",
+      "Name": "Alok Kumar Garang",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Saikat Das (LBST0518)",
+      "Employee Code": "LBST0518",
+      "Level": "E1",
+      "Name": "Saikat Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Deonarayan Sujay Mahendra (LBST0533)",
+      "Employee Code": "LBST0533",
+      "Level": "MM2",
+      "Name": "Deonarayan Sujay Mahendra",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Bappaditya Mondal (LBST0538)",
+      "Employee Code": "LBST0538",
+      "Level": "SM1",
+      "Name": "Bappaditya Mondal",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Abhimanyu Gupta (LBST0547)",
+      "Employee Code": "LBST0547",
+      "Level": "E2",
+      "Name": "Abhimanyu Gupta",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Peeyush Jain (LBST0549)",
+      "Employee Code": "LBST0549",
+      "Level": "MM2",
+      "Name": "Peeyush Jain",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Rajkamal Dhara (LBST0556)",
+      "Employee Code": "LBST0556",
+      "Level": "MM2",
+      "Name": "Rajkamal Dhara",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Sandeep Kumar Yadav (LBST0566)",
+      "Employee Code": "LBST0566",
+      "Level": "E1",
+      "Name": "Sandeep Kumar Yadav",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Baisakhi Das Biswas (LBST0568)",
+      "Employee Code": "LBST0568",
+      "Level": "MM1",
+      "Name": "Baisakhi Das Biswas",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Avinash Ashok Bagul (LBST0582)",
+      "Employee Code": "LBST0582",
+      "Level": "E2",
+      "Name": "Avinash Ashok Bagul",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Rahul Jaywant Jadhav (LBST0583)",
+      "Employee Code": "LBST0583",
+      "Level": "E2",
+      "Name": "Rahul Jaywant Jadhav",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Vineet Kumar Singh (LBST0636)",
+      "Employee Code": "LBST0636",
+      "Level": "MM1",
+      "Name": "Vineet Kumar Singh",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Ramprasad Jana (LBST0639)",
+      "Employee Code": "LBST0639",
+      "Level": "MM2",
+      "Name": "Ramprasad Jana",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Mayank Jhunjunwala (LBST0651)",
+      "Employee Code": "LBST0651",
+      "Level": "E2",
+      "Name": "Mayank Jhunjunwala",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Basanta Kumar Gouda (LBST0665)",
+      "Employee Code": "LBST0665",
+      "Level": "O2",
+      "Name": "Basanta Kumar Gouda",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Dharmendra Ramnath Gupta (LBST0668)",
+      "Employee Code": "LBST0668",
+      "Level": "O2",
+      "Name": "Dharmendra Ramnath Gupta",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Ramananda Jana (LBST0677)",
+      "Employee Code": "LBST0677",
+      "Level": "O2",
+      "Name": "Ramananda Jana",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Abhishek Singh (LBST0681)",
+      "Employee Code": "LBST0681",
+      "Level": "MM2",
+      "Name": "Abhishek Singh",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Saayan Sengupta (LBST0695)",
+      "Employee Code": "LBST0695",
+      "Level": "E1",
+      "Name": "Saayan Sengupta",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Krashna Kumar (LBST0696)",
+      "Employee Code": "LBST0696",
+      "Level": "O2",
+      "Name": "Krashna Kumar",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Om Prakash Yadav (LBST0704)",
+      "Employee Code": "LBST0704",
+      "Level": "E1",
+      "Name": "Om Prakash Yadav",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Rashgobinda Kundu (LBST0712)",
+      "Employee Code": "LBST0712",
+      "Level": "E1",
+      "Name": "Rashgobinda Kundu",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sarfaraz Mondal (LBST0719)",
+      "Employee Code": "LBST0719",
+      "Level": "E1",
+      "Name": "Sarfaraz Mondal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Biplab Das Adhikari (LBST0725)",
+      "Employee Code": "LBST0725",
+      "Level": "MM1",
+      "Name": "Biplab Das Adhikari",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Sheoshankar Ramsamujh Mishra (LBST0727)",
+      "Employee Code": "LBST0727",
+      "Level": "EM2",
+      "Name": "Sheoshankar Ramsamujh Mishra",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "1200000"
+    },
+    {
+      "Employee": "Ritesh Kumar Singh (LBST0738)",
+      "Employee Code": "LBST0738",
+      "Level": "MM2",
+      "Name": "Ritesh Kumar Singh",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Md Imran (LBST0758)",
+      "Employee Code": "LBST0758",
+      "Level": "E2",
+      "Name": "Md Imran",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Nale Laxman Arjun (LBST0764)",
+      "Employee Code": "LBST0764",
+      "Level": "SM2",
+      "Name": "Nale Laxman Arjun",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Vikash Kumar Srivastav (LBST0770)",
+      "Employee Code": "LBST0770",
+      "Level": "E2",
+      "Name": "Vikash Kumar Srivastav",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Debabrata Maity (LBST0771)",
+      "Employee Code": "LBST0771",
+      "Level": "E2",
+      "Name": "Debabrata Maity",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Rajendra Nand (LBST0775)",
+      "Employee Code": "LBST0775",
+      "Level": "E1",
+      "Name": "Rajendra Nand",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Amit Raj (LBST0785)",
+      "Employee Code": "LBST0785",
+      "Level": "E2",
+      "Name": "Amit Raj",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Varun Tiwari (LBST0786)",
+      "Employee Code": "LBST0786",
+      "Level": "E2",
+      "Name": "Varun Tiwari",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Santu Hazra (LBST0787)",
+      "Employee Code": "LBST0787",
+      "Level": "E2",
+      "Name": "Santu Hazra",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Debabrata Pramanik (LBST0794)",
+      "Employee Code": "LBST0794",
+      "Level": "O2",
+      "Name": "Debabrata Pramanik",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Siddhartha Maity (LBST0795)",
+      "Employee Code": "LBST0795",
+      "Level": "O2",
+      "Name": "Siddhartha Maity",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Shikhar Bhattacharyya (LBST0858)",
+      "Employee Code": "LBST0858",
+      "Level": "E2",
+      "Name": "Shikhar Bhattacharyya",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Abhay Sharad Kale (LBST0860)",
+      "Employee Code": "LBST0860",
+      "Level": "MM1",
+      "Name": "Abhay Sharad Kale",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Dipankar Dandapat (LBST0867)",
+      "Employee Code": "LBST0867",
+      "Level": "E2",
+      "Name": "Dipankar Dandapat",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Md Toukir Alam (LBST0871)",
+      "Employee Code": "LBST0871",
+      "Level": "E1",
+      "Name": "Md Toukir Alam",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Omkar Shankar Mane (LBST0887)",
+      "Employee Code": "LBST0887",
+      "Level": "MM1",
+      "Name": "Omkar Shankar Mane",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Srinivas Vella (LBST0891)",
+      "Employee Code": "LBST0891",
+      "Level": "SM1",
+      "Name": "Srinivas Vella",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Shyam Sundar Singh (LBST0892)",
+      "Employee Code": "LBST0892",
+      "Level": "O2",
+      "Name": "Shyam Sundar Singh",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Rahul Bhikaji Varne (LBST0899)",
+      "Employee Code": "LBST0899",
+      "Level": "SM2",
+      "Name": "Rahul Bhikaji Varne",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Prasenjit Puri (LBST0904)",
+      "Employee Code": "LBST0904",
+      "Level": "MM1",
+      "Name": "Prasenjit Puri",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Susanta Samanta (LBST0910)",
+      "Employee Code": "LBST0910",
+      "Level": "E2",
+      "Name": "Susanta Samanta",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Kousik Hazra (LBST0911)",
+      "Employee Code": "LBST0911",
+      "Level": "E2",
+      "Name": "Kousik Hazra",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Susanta Roy (LBST0913)",
+      "Employee Code": "LBST0913",
+      "Level": "E2",
+      "Name": "Susanta Roy",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Kaushik Dutta (LBST0917)",
+      "Employee Code": "LBST0917",
+      "Level": "MM1",
+      "Name": "Kaushik Dutta",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Mohammad Imran (LBST0918)",
+      "Employee Code": "LBST0918",
+      "Level": "MM1",
+      "Name": "Mohammad Imran",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Subha Kumar Singha (LBST0922)",
+      "Employee Code": "LBST0922",
+      "Level": "E2",
+      "Name": "Subha Kumar Singha",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Santosh Kumar Pal (LBST0927)",
+      "Employee Code": "LBST0927",
+      "Level": "E2",
+      "Name": "Santosh Kumar Pal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sourav Banerjee (LBST0936)",
+      "Employee Code": "LBST0936",
+      "Level": "E1",
+      "Name": "Sourav Banerjee",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Nitesh Kumar Dubey (LBST0938)",
+      "Employee Code": "LBST0938",
+      "Level": "MM2",
+      "Name": "Nitesh Kumar Dubey",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Pijush Maity (LBST0946)",
+      "Employee Code": "LBST0946",
+      "Level": "MM2",
+      "Name": "Pijush Maity",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Zakir Hussain (LBST0947)",
+      "Employee Code": "LBST0947",
+      "Level": "E1",
+      "Name": "Zakir Hussain",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Kartik Adak (LBST0948)",
+      "Employee Code": "LBST0948",
+      "Level": "MM2",
+      "Name": "Kartik Adak",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Tanmoy Roy (LBST0949)",
+      "Employee Code": "LBST0949",
+      "Level": "MM2",
+      "Name": "Tanmoy Roy",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Prasanna Vasant Bandivadekar (LBST0953)",
+      "Employee Code": "LBST0953",
+      "Level": "SM2",
+      "Name": "Prasanna Vasant Bandivadekar",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Somen Chakraborty (LBST0958)",
+      "Employee Code": "LBST0958",
+      "Level": "SM2",
+      "Name": "Somen Chakraborty",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Parikhit Jana (LBST0959)",
+      "Employee Code": "LBST0959",
+      "Level": "MM2",
+      "Name": "Parikhit Jana",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Abhishek Kumar (LBST0960)",
+      "Employee Code": "LBST0960",
+      "Level": "SM1",
+      "Name": "Abhishek Kumar",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Kartick Mandi (LBST0965)",
+      "Employee Code": "LBST0965",
+      "Level": "E1",
+      "Name": "Kartick Mandi",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sourav Samanta (LBST0967)",
+      "Employee Code": "LBST0967",
+      "Level": "MM2",
+      "Name": "Sourav Samanta",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Supriya Bishal (LBST0972)",
+      "Employee Code": "LBST0972",
+      "Level": "O2",
+      "Name": "Supriya Bishal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Suman Chatterjee (LBST0977)",
+      "Employee Code": "LBST0977",
+      "Level": "E2",
+      "Name": "Suman Chatterjee",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Subash Chandra Behera (LBST0981)",
+      "Employee Code": "LBST0981",
+      "Level": "MM2",
+      "Name": "Subash Chandra Behera",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Goutam Pal (LBST0993)",
+      "Employee Code": "LBST0993",
+      "Level": "MM2",
+      "Name": "Goutam Pal",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Subhankar Dutta (LBST0995)",
+      "Employee Code": "LBST0995",
+      "Level": "E2",
+      "Name": "Subhankar Dutta",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Suman Paul (LBST0997)",
+      "Employee Code": "LBST0997",
+      "Level": "E2",
+      "Name": "Suman Paul",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Shivani Mogha (LBST1003)",
+      "Employee Code": "LBST1003",
+      "Level": "E1",
+      "Name": "Shivani Mogha",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Dut Kumar Patra (LBST1014)",
+      "Employee Code": "LBST1014",
+      "Level": "E1",
+      "Name": "Dut Kumar Patra",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Chittaranjana Das (LBST1018)",
+      "Employee Code": "LBST1018",
+      "Level": "O2",
+      "Name": "Chittaranjana Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Santu Barik (LBST1021)",
+      "Employee Code": "LBST1021",
+      "Level": "E2",
+      "Name": "Santu Barik",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Chirag Thakur (LBST1023)",
+      "Employee Code": "LBST1023",
+      "Level": "MM1",
+      "Name": "Chirag Thakur",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Dipesh Bhojnagarwala (LBST1025)",
+      "Employee Code": "LBST1025",
+      "Level": "SM2",
+      "Name": "Dipesh Bhojnagarwala",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Tanmoy Basak (LBST1026)",
+      "Employee Code": "LBST1026",
+      "Level": "E1",
+      "Name": "Tanmoy Basak",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Arindam Ghanta (LBST1048)",
+      "Employee Code": "LBST1048",
+      "Level": "E2",
+      "Name": "Arindam Ghanta",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Rabindranath Maity (LBST1050)",
+      "Employee Code": "LBST1050",
+      "Level": "O2",
+      "Name": "Rabindranath Maity",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Chitta Ranjan Dey (LBST1053)",
+      "Employee Code": "LBST1053",
+      "Level": "O2",
+      "Name": "Chitta Ranjan Dey",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Debraj Naskar (LBST1058)",
+      "Employee Code": "LBST1058",
+      "Level": "MM2",
+      "Name": "Debraj Naskar",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Bishal Roy (LBST1059)",
+      "Employee Code": "LBST1059",
+      "Level": "E2",
+      "Name": "Bishal Roy",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Saumen Kumar Sabud (LBST1061)",
+      "Employee Code": "LBST1061",
+      "Level": "E2",
+      "Name": "Saumen Kumar Sabud",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Rajib Ghorai (LBST1062)",
+      "Employee Code": "LBST1062",
+      "Level": "E2",
+      "Name": "Rajib Ghorai",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Munna Kumar Sharma (LBST1065)",
+      "Employee Code": "LBST1065",
+      "Level": "E1",
+      "Name": "Munna Kumar Sharma",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Prafulla Maity (LBST1068)",
+      "Employee Code": "LBST1068",
+      "Level": "E2",
+      "Name": "Prafulla Maity",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sarvesh Rai (LBST1069)",
+      "Employee Code": "LBST1069",
+      "Level": "E2",
+      "Name": "Sarvesh Rai",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Shanky Singh (LBST1077)",
+      "Employee Code": "LBST1077",
+      "Level": "E1",
+      "Name": "Shanky Singh",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Dinbandhu Kumar Nayak (LBST1079)",
+      "Employee Code": "LBST1079",
+      "Level": "EM2",
+      "Name": "Dinbandhu Kumar Nayak",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "1200000"
+    },
+    {
+      "Employee": "Gulshan Parekar (LBST1081)",
+      "Employee Code": "LBST1081",
+      "Level": "MM2",
+      "Name": "Gulshan Parekar",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Narayan Prasad Ganeriwala (LBST1083)",
+      "Employee Code": "LBST1083",
+      "Level": "SM2",
+      "Name": "Narayan Prasad Ganeriwala",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Souvik Das (LBST1088)",
+      "Employee Code": "LBST1088",
+      "Level": "E2",
+      "Name": "Souvik Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Kalipada Samanta (LBST1089)",
+      "Employee Code": "LBST1089",
+      "Level": "E1",
+      "Name": "Kalipada Samanta",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Harikesh Pandey (LBST1091)",
+      "Employee Code": "LBST1091",
+      "Level": "E1",
+      "Name": "Harikesh Pandey",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Prasad Jayanta Deshpande (LBST1092)",
+      "Employee Code": "LBST1092",
+      "Level": "MM1",
+      "Name": "Prasad Jayanta Deshpande",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Sanjit Panda (LBST1099)",
+      "Employee Code": "LBST1099",
+      "Level": "O2",
+      "Name": "Sanjit Panda",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Suman Santra (LBST1103)",
+      "Employee Code": "LBST1103",
+      "Level": "E2",
+      "Name": "Suman Santra",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sayan Bera (LBST1106)",
+      "Employee Code": "LBST1106",
+      "Level": "E2",
+      "Name": "Sayan Bera",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Narad Das (LBST1108)",
+      "Employee Code": "LBST1108",
+      "Level": "O2",
+      "Name": "Narad Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Neeraj Sureka (LBST1109)",
+      "Employee Code": "LBST1109",
+      "Level": "EM1",
+      "Name": "Neeraj Sureka",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "1200000"
+    },
+    {
+      "Employee": "Doyel Ray (LBST1110)",
+      "Employee Code": "LBST1110",
+      "Level": "E1",
+      "Name": "Doyel Ray",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Subhas Agarwal (LBST1111)",
+      "Employee Code": "LBST1111",
+      "Level": "SM2",
+      "Name": "Subhas Agarwal",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Sunita Ghosh (LBST1113)",
+      "Employee Code": "LBST1113",
+      "Level": "E2",
+      "Name": "Sunita Ghosh",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Subhajit Das (LBST1118)",
+      "Employee Code": "LBST1118",
+      "Level": "O2",
+      "Name": "Subhajit Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Abhijit Mondal (LBST1120)",
+      "Employee Code": "LBST1120",
+      "Level": "E1",
+      "Name": "Abhijit Mondal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Payel Sinha Chowdhury (LBST1123)",
+      "Employee Code": "LBST1123",
+      "Level": "SM2",
+      "Name": "Payel Sinha Chowdhury",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Sanjay Kumar Biswal (LBST1127)",
+      "Employee Code": "LBST1127",
+      "Level": "MM1",
+      "Name": "Sanjay Kumar Biswal",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Varun Mundhra (LBST1128)",
+      "Employee Code": "LBST1128",
+      "Level": "SM2",
+      "Name": "Varun Mundhra",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Siddheyswar Das (LBST1130)",
+      "Employee Code": "LBST1130",
+      "Level": "E1",
+      "Name": "Siddheyswar Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sandeep Kumar Das (LBST1144)",
+      "Employee Code": "LBST1144",
+      "Level": "SM2",
+      "Name": "Sandeep Kumar Das",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Arunabha Mitra (LBST1154)",
+      "Employee Code": "LBST1154",
+      "Level": "MM2",
+      "Name": "Arunabha Mitra",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Anindita Dey (LBST1162)",
+      "Employee Code": "LBST1162",
+      "Level": "E1",
+      "Name": "Anindita Dey",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sweta Chanchal (LBST1163)",
+      "Employee Code": "LBST1163",
+      "Level": "MM2",
+      "Name": "Sweta Chanchal",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Soumen Kumar Bera (LBST1164)",
+      "Employee Code": "LBST1164",
+      "Level": "MM1",
+      "Name": "Soumen Kumar Bera",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Riksundar Samanta (LBST1166)",
+      "Employee Code": "LBST1166",
+      "Level": "E2",
+      "Name": "Riksundar Samanta",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Soumitra Mukhopadhyay (LBST1169)",
+      "Employee Code": "LBST1169",
+      "Level": "SM2",
+      "Name": "Soumitra Mukhopadhyay",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Hemant Mohta (LBST1170)",
+      "Employee Code": "LBST1170",
+      "Level": "MM1",
+      "Name": "Hemant Mohta",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Sekhar Basu (LBST1176)",
+      "Employee Code": "LBST1176",
+      "Level": "E1",
+      "Name": "Sekhar Basu",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sagar Kar (LBST1177)",
+      "Employee Code": "LBST1177",
+      "Level": "O2",
+      "Name": "Sagar Kar",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sanjib Ghosh (LBST1178)",
+      "Employee Code": "LBST1178",
+      "Level": "MM2",
+      "Name": "Sanjib Ghosh",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Saaquib Mustafa (LBST1179)",
+      "Employee Code": "LBST1179",
+      "Level": "E1",
+      "Name": "Saaquib Mustafa",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sk Azaharuddin (LBST1180)",
+      "Employee Code": "LBST1180",
+      "Level": "E2",
+      "Name": "Sk Azaharuddin",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Udaya Nath Peda (LBST1185)",
+      "Employee Code": "LBST1185",
+      "Level": "MM1",
+      "Name": "Udaya Nath Peda",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Dibyendu Pal (LBST223)",
+      "Employee Code": "LBST223",
+      "Level": "E1",
+      "Name": "Dibyendu Pal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee Code": "No Code",
+      "Name": "ANIL KUMAR AGNIHOTRI",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee Code": "No Code",
+      "Name": "Sujay Dey",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Suprateek Bandyopadhyay PEW00099)",
+      "Employee Code": "PEW00099",
+      "Level": "E1",
+      "Name": "Suprateek Bandyopadhyay",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sumit Gupta PEW00104)",
+      "Employee Code": "PEW00104",
+      "Level": "MM1",
+      "Name": "Sumit Gupta",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Tanmay Roy PEW00105)",
+      "Employee Code": "PEW00105",
+      "Level": "E1",
+      "Name": "Tanmay Roy",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Dipak Sharma PEW00108)",
+      "Employee Code": "PEW00108",
+      "Level": "MM2",
+      "Name": "Dipak Sharma",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Ugrasen PEW00123)",
+      "Employee Code": "PEW00123",
+      "Level": "SM1",
+      "Name": "Ugrasen",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Sovan Maity PEW00128)",
+      "Employee Code": "PEW00128",
+      "Level": "MM2",
+      "Name": "Sovan Maity",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Sekh Md Bakibillah PEW00131)",
+      "Employee Code": "PEW00131",
+      "Level": "E2",
+      "Name": "Sekh Md Bakibillah",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Abdul Ghani PEW00135)",
+      "Employee Code": "PEW00135",
+      "Level": "SM2",
+      "Name": "Abdul Ghani",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Debasish Ghosh PEW00144)",
+      "Employee Code": "PEW00144",
+      "Level": "E1",
+      "Name": "Debasish Ghosh",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Bikash Kumar Singh PEW00145)",
+      "Employee Code": "PEW00145",
+      "Level": "E2",
+      "Name": "Bikash Kumar Singh",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sumanta Sarkar PEW00146)",
+      "Employee Code": "PEW00146",
+      "Level": "E2",
+      "Name": "Sumanta Sarkar",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Abhishek Raj PEW00148)",
+      "Employee Code": "PEW00148",
+      "Level": "E2",
+      "Name": "Abhishek Raj",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Somnath Dey PEW00158)",
+      "Employee Code": "PEW00158",
+      "Level": "E2",
+      "Name": "Somnath Dey",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "D Ramesh PEW00173)",
+      "Employee Code": "PEW00173",
+      "Level": "MM2",
+      "Name": "D Ramesh",
+      "Current Sum Insured": 300000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Rafiqul Alam Khan PEW00175)",
+      "Employee Code": "PEW00175",
+      "Level": "E1",
+      "Name": "Rafiqul Alam Khan",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Ramesh Pal PEW101)",
+      "Employee Code": "PEW101",
+      "Level": "E1",
+      "Name": "Ramesh Pal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Surendra Mishra PEWS001)",
+      "Employee Code": "PEWS001",
+      "Level": "SM2",
+      "Name": "Surendra Mishra",
+      "Current Sum Insured": 500000,
+      "Current Monthly Premium": 2000,
+      "Proposed Sum insured": "800000"
+    },
+    {
+      "Employee": "Santosh Kumar Shaw PEWS002)",
+      "Employee Code": "PEWS002",
+      "Level": "MM2",
+      "Name": "Santosh Kumar Shaw",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 1000,
+      "Proposed Sum insured": "500000"
+    },
+    {
+      "Employee": "Sk Shahnawaz Rahim PEWS007)",
+      "Employee Code": "PEWS007",
+      "Level": "E1",
+      "Name": "Sk Shahnawaz Rahim",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Kamal Das PEWS009)",
+      "Employee Code": "PEWS009",
+      "Level": "E2",
+      "Name": "Kamal Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sudip Kumar Dutta PEWS013)",
+      "Employee Code": "PEWS013",
+      "Level": "E1",
+      "Name": "Sudip Kumar Dutta",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Aritra Mondal PEWS014)",
+      "Employee Code": "PEWS014",
+      "Level": "E1",
+      "Name": "Aritra Mondal",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Ajay Tiwari PEWS016)",
+      "Employee Code": "PEWS016",
+      "Level": "E2",
+      "Name": "Ajay Tiwari",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Pawan Dubey PEWS017)",
+      "Employee Code": "PEWS017",
+      "Level": "E2",
+      "Name": "Pawan Dubey",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Abhijit Das PEWS018)",
+      "Employee Code": "PEWS018",
+      "Level": "E1",
+      "Name": "Abhijit Das",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Dibendu Khara  PEWS021)",
+      "Employee Code": "PEWS021",
+      "Level": "E2",
+      "Name": "Dibendu Khara ",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Giyasuddin Mollah PEWS022)",
+      "Employee Code": "PEWS022",
+      "Level": "O2",
+      "Name": "Giyasuddin Mollah",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Ranjit Polley PEWW002)",
+      "Employee Code": "PEWW002",
+      "Level": "O2",
+      "Name": "Ranjit Polley",
+      "Current Sum Insured": 200000,
+      "Current Monthly Premium": 800,
+      "Proposed Sum insured": 300000
+    },
+    {
+      "Employee": "Debnath Saha HO14)",
+      "Employee Code": "HO14",
+      "Level": "E2",
+      "Name": "Debnath Saha",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sayandip Patra HO15)",
+      "Employee Code": "HO15",
+      "Level": "E2",
+      "Name": "Sayandip Patra",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Atin Pramanick HO16)",
+      "Employee Code": "HO16",
+      "Level": "E2",
+      "Name": "Atin Pramanick",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Rupam Chatterjee HO52)",
+      "Employee Code": "HO52",
+      "Level": "E2",
+      "Name": "Rupam Chatterjee",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Anupriya Bose LBIC0231)",
+      "Employee Code": "LBIC0231",
+      "Level": "E2",
+      "Name": "Anupriya Bose",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sudip Kumar Pramanik LBIC0235)",
+      "Employee Code": "LBIC0235",
+      "Level": "E2",
+      "Name": "Sudip Kumar Pramanik",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Subha Samanta LBIC0243)",
+      "Employee Code": "LBIC0243",
+      "Level": "E2",
+      "Name": "Subha Samanta",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Suman Saha LBIC0251)",
+      "Employee Code": "LBIC0251",
+      "Level": "E2",
+      "Name": "Suman Saha",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Subhendu Ghosh LBIC0279)",
+      "Employee Code": "LBIC0279",
+      "Level": "E2",
+      "Name": "Subhendu Ghosh",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sourav Sahoo LBIC0280)",
+      "Employee Code": "LBIC0280",
+      "Level": "E2",
+      "Name": "Sourav Sahoo",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sounak Roy LBIC0294)",
+      "Employee Code": "LBIC0294",
+      "Level": "E2",
+      "Name": "Sounak Roy",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Debabrata Das LBIC0299)",
+      "Employee Code": "LBIC0299",
+      "Level": "E2",
+      "Name": "Debabrata Das",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Md Nurul Hasan Laskar LBIC0329)",
+      "Employee Code": "LBIC0329",
+      "Level": "E2",
+      "Name": "Md Nurul Hasan Laskar",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SAHIL MONDAL LBIC0346)",
+      "Employee Code": "LBIC0346",
+      "Level": "E2",
+      "Name": "SAHIL MONDAL",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Subhajit Maity LBIC0349)",
+      "Employee Code": "LBIC0349",
+      "Level": "E2",
+      "Name": "Subhajit Maity",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Puspita Paul LBIC0355)",
+      "Employee Code": "LBIC0355",
+      "Level": "E2",
+      "Name": "Puspita Paul",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Bijoy Kumar Das LBIC0385)",
+      "Employee Code": "LBIC0385",
+      "Level": "E2",
+      "Name": "Bijoy Kumar Das",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Ayan Halder LBIC0390)",
+      "Employee Code": "LBIC0390",
+      "Level": "E2",
+      "Name": "Ayan Halder",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Amit Das Adhikary LBIC0391)",
+      "Employee Code": "LBIC0391",
+      "Level": "E2",
+      "Name": "Amit Das Adhikary",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Amit Jana LBIC0394)",
+      "Employee Code": "LBIC0394",
+      "Level": "E2",
+      "Name": "Amit Jana",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Hritwik Sardar LBIC0396)",
+      "Employee Code": "LBIC0396",
+      "Level": "E2",
+      "Name": "Hritwik Sardar",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Krishanu Nandi LBIC0397)",
+      "Employee Code": "LBIC0397",
+      "Level": "E2",
+      "Name": "Krishanu Nandi",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Suman Chakraborty LBIC0402)",
+      "Employee Code": "LBIC0402",
+      "Level": "E2",
+      "Name": "Suman Chakraborty",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Priyabrata Bera LBIC0452)",
+      "Employee Code": "LBIC0452",
+      "Level": "E2",
+      "Name": "Priyabrata Bera",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Subhendu Khatua LBIC0471)",
+      "Employee Code": "LBIC0471",
+      "Level": "E2",
+      "Name": "Subhendu Khatua",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Biswajit Bera LBIC0476)",
+      "Employee Code": "LBIC0476",
+      "Level": "E2",
+      "Name": "Biswajit Bera",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Soumya Maity LBIC0481)",
+      "Employee Code": "LBIC0481",
+      "Level": "E2",
+      "Name": "Soumya Maity",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Soumya Patra LBIC0485)",
+      "Employee Code": "LBIC0485",
+      "Level": "E2",
+      "Name": "Soumya Patra",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Kuntal Ghosh LBIC0489)",
+      "Employee Code": "LBIC0489",
+      "Level": "E2",
+      "Name": "Kuntal Ghosh",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Bishal Mallick LBIC0492)",
+      "Employee Code": "LBIC0492",
+      "Level": "E2",
+      "Name": "Bishal Mallick",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Dipankar Ghoroi LBIC0493)",
+      "Employee Code": "LBIC0493",
+      "Level": "E2",
+      "Name": "Dipankar Ghoroi",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Priyajit Dolai LBIC0495)",
+      "Employee Code": "LBIC0495",
+      "Level": "E2",
+      "Name": "Priyajit Dolai",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sanjoy Baksi LBIC0509)",
+      "Employee Code": "LBIC0509",
+      "Level": "E2",
+      "Name": "Sanjoy Baksi",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sudipta Hazra LBIC0510)",
+      "Employee Code": "LBIC0510",
+      "Level": "E2",
+      "Name": "Sudipta Hazra",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Parmar Jayesh Manubhai LBIC0513)",
+      "Employee Code": "LBIC0513",
+      "Level": "E2",
+      "Name": "Parmar Jayesh Manubhai",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Apurba Mondal LBIC0514)",
+      "Employee Code": "LBIC0514",
+      "Level": "E2",
+      "Name": "Apurba Mondal",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Krishna Gopal Samanta LBIC0542)",
+      "Employee Code": "LBIC0542",
+      "Level": "E2",
+      "Name": "Krishna Gopal Samanta",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Subhajit Khatua LBIC0544)",
+      "Employee Code": "LBIC0544",
+      "Level": "E2",
+      "Name": "Subhajit Khatua",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Dipak Kumar Bera LBIC0545)",
+      "Employee Code": "LBIC0545",
+      "Level": "E2",
+      "Name": "Dipak Kumar Bera",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Ramen Guchhait LBICUS72)",
+      "Employee Code": "LBICUS72",
+      "Level": "E2",
+      "Name": "Ramen Guchhait",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SUVENDU ADHIKARI LBST0100)",
+      "Employee Code": "LBST0100",
+      "Level": "E2",
+      "Name": "SUVENDU ADHIKARI",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "PRADIPTA MAITY LBST0211)",
+      "Employee Code": "LBST0211",
+      "Level": "E2",
+      "Name": "PRADIPTA MAITY",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SAIKAT DAS LBST0283)",
+      "Employee Code": "LBST0283",
+      "Level": "E2",
+      "Name": "SAIKAT DAS",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SANTANU JANA LBST0289)",
+      "Employee Code": "LBST0289",
+      "Level": "E2",
+      "Name": "SANTANU JANA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "KUNDAN MAJI LBST0316)",
+      "Employee Code": "LBST0316",
+      "Level": "E2",
+      "Name": "KUNDAN MAJI",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "MADHUSUDAN GUCHHAIT LBST0320)",
+      "Employee Code": "LBST0320",
+      "Level": "E2",
+      "Name": "MADHUSUDAN GUCHHAIT",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SAYAN BAG LBST0368)",
+      "Employee Code": "LBST0368",
+      "Level": "E2",
+      "Name": "SAYAN BAG",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "ANIMESH KHATUA LBST0401)",
+      "Employee Code": "LBST0401",
+      "Level": "E2",
+      "Name": "ANIMESH KHATUA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SANDIP BARIK LBST0416)",
+      "Employee Code": "LBST0416",
+      "Level": "E2",
+      "Name": "SANDIP BARIK",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "ANUPAM SAHOO LBST0423)",
+      "Employee Code": "LBST0423",
+      "Level": "E2",
+      "Name": "ANUPAM SAHOO",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "PRASANTA SHEE LBST0480)",
+      "Employee Code": "LBST0480",
+      "Level": "E2",
+      "Name": "PRASANTA SHEE",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "BIDHAN CHANDRA GHARA LBST0482)",
+      "Employee Code": "LBST0482",
+      "Level": "E2",
+      "Name": "BIDHAN CHANDRA GHARA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "MILAN MAITY LBST0499)",
+      "Employee Code": "LBST0499",
+      "Level": "E2",
+      "Name": "MILAN MAITY",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SANJIB MONDAL LBST0504)",
+      "Employee Code": "LBST0504",
+      "Level": "E2",
+      "Name": "SANJIB MONDAL",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SANAJIT MAITY LBST0513)",
+      "Employee Code": "LBST0513",
+      "Level": "E2",
+      "Name": "SANAJIT MAITY",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SUMANTA PAUL LBST0523)",
+      "Employee Code": "LBST0523",
+      "Level": "E2",
+      "Name": "SUMANTA PAUL",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SUMAN JANA LBST0527)",
+      "Employee Code": "LBST0527",
+      "Level": "E2",
+      "Name": "SUMAN JANA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "JAYANTA MANNA LBST0530)",
+      "Employee Code": "LBST0530",
+      "Level": "E2",
+      "Name": "JAYANTA MANNA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "KUSUNKUR GHORAI LBST0535)",
+      "Employee Code": "LBST0535",
+      "Level": "E2",
+      "Name": "KUSUNKUR GHORAI",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "PURNENDU MAITY LBST0539)",
+      "Employee Code": "LBST0539",
+      "Level": "E2",
+      "Name": "PURNENDU MAITY",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "PRAJJAL SAMANTA LBST0540)",
+      "Employee Code": "LBST0540",
+      "Level": "E2",
+      "Name": "PRAJJAL SAMANTA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "HEMANTA MONDAL LBST0572)",
+      "Employee Code": "LBST0572",
+      "Level": "E2",
+      "Name": "HEMANTA MONDAL",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SINTU GHORAI LBST0575)",
+      "Employee Code": "LBST0575",
+      "Level": "E2",
+      "Name": "SINTU GHORAI",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "ASIM MANNA LBST0576)",
+      "Employee Code": "LBST0576",
+      "Level": "E2",
+      "Name": "ASIM MANNA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Avinash Rohidas Dalvi LBST0584)",
+      "Employee Code": "LBST0584",
+      "Level": "E2",
+      "Name": "Avinash Rohidas Dalvi",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "PRASENJIT MONDAL LBST0588)",
+      "Employee Code": "LBST0588",
+      "Level": "E2",
+      "Name": "PRASENJIT MONDAL",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SUBHAJIT GARU LBST0592)",
+      "Employee Code": "LBST0592",
+      "Level": "E2",
+      "Name": "SUBHAJIT GARU",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "PRADIP KUMAR ROY LBST0596)",
+      "Employee Code": "LBST0596",
+      "Level": "E2",
+      "Name": "PRADIP KUMAR ROY",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SUBHRANSU SEKHAR SAMAL LBST0604)",
+      "Employee Code": "LBST0604",
+      "Level": "E2",
+      "Name": "SUBHRANSU SEKHAR SAMAL",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "PALASH KUMAR MALLIK LBST0618)",
+      "Employee Code": "LBST0618",
+      "Level": "E2",
+      "Name": "PALASH KUMAR MALLIK",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Koushik Samanta LBST0641)",
+      "Employee Code": "LBST0641",
+      "Level": "E2",
+      "Name": "Koushik Samanta",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Koushik Karan LBST0646)",
+      "Employee Code": "LBST0646",
+      "Level": "E2",
+      "Name": "Koushik Karan",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Amal Kumar Maity LBST0650)",
+      "Employee Code": "LBST0650",
+      "Level": "E2",
+      "Name": "Amal Kumar Maity",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Gopal Chandra Dasadhikari LBST0653)",
+      "Employee Code": "LBST0653",
+      "Level": "E2",
+      "Name": "Gopal Chandra Dasadhikari",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Atish Kar LBST0654)",
+      "Employee Code": "LBST0654",
+      "Level": "E2",
+      "Name": "Atish Kar",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sayan santra LBST0657)",
+      "Employee Code": "LBST0657",
+      "Level": "E2",
+      "Name": "Sayan santra",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "NILANKA JANA LBST0667)",
+      "Employee Code": "LBST0667",
+      "Level": "E2",
+      "Name": "NILANKA JANA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "MILAN HAIT LBST0671)",
+      "Employee Code": "LBST0671",
+      "Level": "E2",
+      "Name": "MILAN HAIT",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Tias Sahoo LBST0673)",
+      "Employee Code": "LBST0673",
+      "Level": "E2",
+      "Name": "Tias Sahoo",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SOUVIK BANERJEE LBST0679)",
+      "Employee Code": "LBST0679",
+      "Level": "E2",
+      "Name": "SOUVIK BANERJEE",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "RINKU DEY LBST0680)",
+      "Employee Code": "LBST0680",
+      "Level": "E2",
+      "Name": "RINKU DEY",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Dibyendu Paramanik LBST0682)",
+      "Employee Code": "LBST0682",
+      "Level": "E2",
+      "Name": "Dibyendu Paramanik",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SOUVIK SAMANTA LBST0683)",
+      "Employee Code": "LBST0683",
+      "Level": "E2",
+      "Name": "SOUVIK SAMANTA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Vivekananda Das LBST0684)",
+      "Employee Code": "LBST0684",
+      "Level": "E2",
+      "Name": "Vivekananda Das",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Bholanath Das LBST0685)",
+      "Employee Code": "LBST0685",
+      "Level": "E2",
+      "Name": "Bholanath Das",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Partha Pratim Das LBST0686)",
+      "Employee Code": "LBST0686",
+      "Level": "E2",
+      "Name": "Partha Pratim Das",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Partha Sarathi Chitrakar LBST0687)",
+      "Employee Code": "LBST0687",
+      "Level": "E2",
+      "Name": "Partha Sarathi Chitrakar",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SANJAY PATRA LBST0688)",
+      "Employee Code": "LBST0688",
+      "Level": "E2",
+      "Name": "SANJAY PATRA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SOUPAN JANA LBST0690)",
+      "Employee Code": "LBST0690",
+      "Level": "E2",
+      "Name": "SOUPAN JANA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Tamal Kanti Raul LBST0691)",
+      "Employee Code": "LBST0691",
+      "Level": "E2",
+      "Name": "Tamal Kanti Raul",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "PRADYOT DAS LBST0692)",
+      "Employee Code": "LBST0692",
+      "Level": "E2",
+      "Name": "PRADYOT DAS",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SOURAV PATRA LBST0693)",
+      "Employee Code": "LBST0693",
+      "Level": "E2",
+      "Name": "SOURAV PATRA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "BUDDHADEB DAS LBST0702)",
+      "Employee Code": "LBST0702",
+      "Level": "E2",
+      "Name": "BUDDHADEB DAS",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sudeshna Guha LBST0703)",
+      "Employee Code": "LBST0703",
+      "Level": "E2",
+      "Name": "Sudeshna Guha",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "ARIJIT KARMAKAR LBST0707)",
+      "Employee Code": "LBST0707",
+      "Level": "E2",
+      "Name": "ARIJIT KARMAKAR",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SOMNATH MAJI LBST0737)",
+      "Employee Code": "LBST0737",
+      "Level": "E2",
+      "Name": "SOMNATH MAJI",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SITAL ADAK LBST0740)",
+      "Employee Code": "LBST0740",
+      "Level": "E2",
+      "Name": "SITAL ADAK",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "BIKASH ACHARYYA LBST0743)",
+      "Employee Code": "LBST0743",
+      "Level": "E2",
+      "Name": "BIKASH ACHARYYA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SANDIP DIGAR LBST0745)",
+      "Employee Code": "LBST0745",
+      "Level": "E2",
+      "Name": "SANDIP DIGAR",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SABUJ MONDAL LBST0746)",
+      "Employee Code": "LBST0746",
+      "Level": "E2",
+      "Name": "SABUJ MONDAL",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "BISWAJIT TUNG LBST0747)",
+      "Employee Code": "LBST0747",
+      "Level": "E2",
+      "Name": "BISWAJIT TUNG",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SOUMEN PARIA LBST0749)",
+      "Employee Code": "LBST0749",
+      "Level": "E2",
+      "Name": "SOUMEN PARIA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SANJIB JANA LBST0754)",
+      "Employee Code": "LBST0754",
+      "Level": "E2",
+      "Name": "SANJIB JANA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SK OBAIDULLA LBST0762)",
+      "Employee Code": "LBST0762",
+      "Level": "E2",
+      "Name": "SK OBAIDULLA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SOMNATH JANA LBST0790)",
+      "Employee Code": "LBST0790",
+      "Level": "E2",
+      "Name": "SOMNATH JANA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "PRANAY PURKAIT LBST0800)",
+      "Employee Code": "LBST0800",
+      "Level": "E2",
+      "Name": "PRANAY PURKAIT",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SOUMEN BHUNIA LBST0801)",
+      "Employee Code": "LBST0801",
+      "Level": "E2",
+      "Name": "SOUMEN BHUNIA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SOUVIK PATRA LBST0823)",
+      "Employee Code": "LBST0823",
+      "Level": "E2",
+      "Name": "SOUVIK PATRA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "PRADIP SASMAL LBST0825)",
+      "Employee Code": "LBST0825",
+      "Level": "E2",
+      "Name": "PRADIP SASMAL",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "RAVI KUMAR SAW LBST0845)",
+      "Employee Code": "LBST0845",
+      "Level": "E2",
+      "Name": "RAVI KUMAR SAW",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "MANOHAR MAHTO LBST0846)",
+      "Employee Code": "LBST0846",
+      "Level": "E2",
+      "Name": "MANOHAR MAHTO",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "VIVEK KUMAR OJHA LBST0848)",
+      "Employee Code": "LBST0848",
+      "Level": "E2",
+      "Name": "VIVEK KUMAR OJHA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "ROSHAN PRASAD LBST0855)",
+      "Employee Code": "LBST0855",
+      "Level": "E2",
+      "Name": "ROSHAN PRASAD",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "PRITAM PRAMANIK LBST0874)",
+      "Employee Code": "LBST0874",
+      "Level": "E2",
+      "Name": "PRITAM PRAMANIK",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SUDIP MONDAL LBST0876)",
+      "Employee Code": "LBST0876",
+      "Level": "E2",
+      "Name": "SUDIP MONDAL",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "ABHIJIT BHUNIA LBST0877)",
+      "Employee Code": "LBST0877",
+      "Level": "E2",
+      "Name": "ABHIJIT BHUNIA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SUBRATA SAMANTA LBST0884)",
+      "Employee Code": "LBST0884",
+      "Level": "E2",
+      "Name": "SUBRATA SAMANTA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SIDDHARTHA SHUKLA LBST0895)",
+      "Employee Code": "LBST0895",
+      "Level": "E2",
+      "Name": "SIDDHARTHA SHUKLA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "PRASENJIT PAL LBST0901)",
+      "Employee Code": "LBST0901",
+      "Level": "E2",
+      "Name": "PRASENJIT PAL",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SOVAN KHATUA LBST0908)",
+      "Employee Code": "LBST0908",
+      "Level": "E2",
+      "Name": "SOVAN KHATUA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Madhusudan Das LBST0916)",
+      "Employee Code": "LBST0916",
+      "Level": "E2",
+      "Name": "Madhusudan Das",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Soumitra Saha LBST0920)",
+      "Employee Code": "LBST0920",
+      "Level": "E2",
+      "Name": "Soumitra Saha",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Suvankar Bhowmik LBST0925)",
+      "Employee Code": "LBST0925",
+      "Level": "E2",
+      "Name": "Suvankar Bhowmik",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SK Sahil LBST0930)",
+      "Employee Code": "LBST0930",
+      "Level": "E2",
+      "Name": "SK Sahil",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Abdur Rahaman Mondal LBST0941)",
+      "Employee Code": "LBST0941",
+      "Level": "E2",
+      "Name": "Abdur Rahaman Mondal",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Priyanka Halder LBST0944)",
+      "Employee Code": "LBST0944",
+      "Level": "E2",
+      "Name": "Priyanka Halder",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Md Hasnain LBST0986)",
+      "Employee Code": "LBST0986",
+      "Level": "E2",
+      "Name": "Md Hasnain",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Soumen Kumar Jana LBST0989)",
+      "Employee Code": "LBST0989",
+      "Level": "E2",
+      "Name": "Soumen Kumar Jana",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Dipankar Karan LBST0992)",
+      "Employee Code": "LBST0992",
+      "Level": "E2",
+      "Name": "Dipankar Karan",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sk Sahil Alam LBST0994)",
+      "Employee Code": "LBST0994",
+      "Level": "E2",
+      "Name": "Sk Sahil Alam",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sk Jamshed Uddin LBST1008)",
+      "Employee Code": "LBST1008",
+      "Level": "E2",
+      "Name": "Sk Jamshed Uddin",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Gourhari Patra LBST1011)",
+      "Employee Code": "LBST1011",
+      "Level": "E2",
+      "Name": "Gourhari Patra",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Raja Pakhira LBST1022)",
+      "Employee Code": "LBST1022",
+      "Level": "E2",
+      "Name": "Raja Pakhira",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Monoranjan Khanra LBST1064)",
+      "Employee Code": "LBST1064",
+      "Level": "E2",
+      "Name": "Monoranjan Khanra",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sk Monjur Alam LBST1067)",
+      "Employee Code": "LBST1067",
+      "Level": "E2",
+      "Name": "Sk Monjur Alam",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Ankit Mishra LBST1078)",
+      "Employee Code": "LBST1078",
+      "Level": "E2",
+      "Name": "Ankit Mishra",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Bikash Samanta LBST1082)",
+      "Employee Code": "LBST1082",
+      "Level": "E2",
+      "Name": "Bikash Samanta",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SK MASUDUL HOSSAIN LBST1087)",
+      "Employee Code": "LBST1087",
+      "Level": "E2",
+      "Name": "SK MASUDUL HOSSAIN",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "DIBYENDU MANDAL LBST1098)",
+      "Employee Code": "LBST1098",
+      "Level": "E2",
+      "Name": "DIBYENDU MANDAL",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Satwik Tripathi LBST1101)",
+      "Employee Code": "LBST1101",
+      "Level": "E2",
+      "Name": "Satwik Tripathi",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Pankaj Kumar Samal LBST1135)",
+      "Employee Code": "LBST1135",
+      "Level": "E2",
+      "Name": "Pankaj Kumar Samal",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Soumen Mandal LBST1137)",
+      "Employee Code": "LBST1137",
+      "Level": "E2",
+      "Name": "Soumen Mandal",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Dharmadas Manna LBST1138)",
+      "Employee Code": "LBST1138",
+      "Level": "E2",
+      "Name": "Dharmadas Manna",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Amit Bhunia LBST1141)",
+      "Employee Code": "LBST1141",
+      "Level": "E2",
+      "Name": "Amit Bhunia",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Atanu Dutta LBST1142)",
+      "Employee Code": "LBST1142",
+      "Level": "E2",
+      "Name": "Atanu Dutta",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Durgasankar Bag LBST1143)",
+      "Employee Code": "LBST1143",
+      "Level": "E2",
+      "Name": "Durgasankar Bag",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Naba Kumar Shit LBST1146)",
+      "Employee Code": "LBST1146",
+      "Level": "E2",
+      "Name": "Naba Kumar Shit",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Subrata Pramanick LBST1147)",
+      "Employee Code": "LBST1147",
+      "Level": "E2",
+      "Name": "Subrata Pramanick",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "RABISANKAR PARUA LBST1150)",
+      "Employee Code": "LBST1150",
+      "Level": "E2",
+      "Name": "RABISANKAR PARUA",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SUSHOVAN MAITY LBST1151)",
+      "Employee Code": "LBST1151",
+      "Level": "E2",
+      "Name": "SUSHOVAN MAITY",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Soumen Das LBST1155)",
+      "Employee Code": "LBST1155",
+      "Level": "E2",
+      "Name": "Soumen Das",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sanjit Ruidas LBST1160)",
+      "Employee Code": "LBST1160",
+      "Level": "E2",
+      "Name": "Sanjit Ruidas",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "SANTU MAJUMDER LBST1175)",
+      "Employee Code": "LBST1175",
+      "Level": "E2",
+      "Name": "SANTU MAJUMDER",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Rakesh Kumar Sah PEW00136)",
+      "Employee Code": "PEW00136",
+      "Level": "E2",
+      "Name": "Rakesh Kumar Sah",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Gopal Bera PEW00140)",
+      "Employee Code": "PEW00140",
+      "Level": "E2",
+      "Name": "Gopal Bera",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Souvik Parya PEW00143)",
+      "Employee Code": "PEW00143",
+      "Level": "E2",
+      "Name": "Souvik Parya",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Akash Babasaheb Kirtike PEW00147)",
+      "Employee Code": "PEW00147",
+      "Level": "E2",
+      "Name": "Akash Babasaheb Kirtike",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Aashish Kumar Rawani PEW00157)",
+      "Employee Code": "PEW00157",
+      "Level": "E2",
+      "Name": "Aashish Kumar Rawani",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Omprakash Chourasia PEW00159)",
+      "Employee Code": "PEW00159",
+      "Level": "E2",
+      "Name": "Omprakash Chourasia",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Sayantan Ghosh PEW00160)",
+      "Employee Code": "PEW00160",
+      "Level": "E2",
+      "Name": "Sayantan Ghosh",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Pritam Sharma PEW00161)",
+      "Employee Code": "PEW00161",
+      "Level": "E2",
+      "Name": "Pritam Sharma",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "MD Jiaul Islam PEW00166)",
+      "Employee Code": "PEW00166",
+      "Level": "E2",
+      "Name": "MD Jiaul Islam",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Tanmoy Dey PEW00171)",
+      "Employee Code": "PEW00171",
+      "Level": "E2",
+      "Name": "Tanmoy Dey",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Employee": "Suvra Kanti Kumar PEW00172)",
+      "Employee Code": "PEW00172",
+      "Level": "E2",
+      "Name": "Suvra Kanti Kumar",
+      "Current Sum Insured": 0,
+      "Current Monthly Premium": 0,
+      "Proposed Sum insured": "300000"
+    },
+    {
+      "Proposed Sum insured": " "
     }
-]
+  ]
+}
