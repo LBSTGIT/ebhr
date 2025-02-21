@@ -7,7 +7,11 @@
       "Name": "Deepak Chaudhary",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "1200000"
+      "Proposed Sum insured": "1200000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Harish Chandra Joshi (HO08)",
@@ -16,7 +20,11 @@
       "Name": "Harish Chandra Joshi",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "1200000"
+      "Proposed Sum insured": "1200000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Gautam Ghosh (HO09)",
@@ -25,7 +33,11 @@
       "Name": "Gautam Ghosh",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Avijit Roy (HO10)",
@@ -34,7 +46,11 @@
       "Name": "Avijit Roy",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debolina Ghosh (HO13)",
@@ -43,7 +59,11 @@
       "Name": "Debolina Ghosh",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ram Chandra Yadav (HO18)",
@@ -52,7 +72,11 @@
       "Name": "Ram Chandra Yadav",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Asish Kumar Nath (HO19)",
@@ -61,7 +85,11 @@
       "Name": "Asish Kumar Nath",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ajoy Kumar Hazra (HO21)",
@@ -70,7 +98,11 @@
       "Name": "Ajoy Kumar Hazra",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dipanjan Sarkar (HO24)",
@@ -79,7 +111,11 @@
       "Name": "Dipanjan Sarkar",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Manas Chakraborty (HO25)",
@@ -88,7 +124,11 @@
       "Name": "Manas Chakraborty",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Pawan Kumar Sharma (HO26)",
@@ -97,7 +137,11 @@
       "Name": "Pawan Kumar Sharma",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Somen Das (HO27)",
@@ -106,7 +150,11 @@
       "Name": "Somen Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sanjay Paul (HO31)",
@@ -115,7 +163,11 @@
       "Name": "Sanjay Paul",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Mousumi Chatterjee (HO33)",
@@ -124,7 +176,11 @@
       "Name": "Mousumi Chatterjee",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bimal Ghosh (HO35)",
@@ -133,7 +189,11 @@
       "Name": "Bimal Ghosh",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Nani Gopal Laha (HO36)",
@@ -142,7 +202,11 @@
       "Name": "Nani Gopal Laha",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Arindam Chatterjee (HO38)",
@@ -151,7 +215,11 @@
       "Name": "Arindam Chatterjee",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rima Das (HO40)",
@@ -160,7 +228,11 @@
       "Name": "Rima Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Buddhadeb Ganrai (HO42)",
@@ -169,7 +241,11 @@
       "Name": "Buddhadeb Ganrai",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ranjan Bhattacharya (HO53)",
@@ -178,7 +254,11 @@
       "Name": "Ranjan Bhattacharya",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Prasun Samadder (HO56)",
@@ -187,7 +267,11 @@
       "Name": "Prasun Samadder",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Mohammad Murtaza (HO72)",
@@ -196,7 +280,11 @@
       "Name": "Mohammad Murtaza",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Swapnajit Dey (HO83)",
@@ -205,7 +293,11 @@
       "Name": "Swapnajit Dey",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Indranil Pal (HO90)",
@@ -214,7 +306,11 @@
       "Name": "Indranil Pal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Duman Rajak (HO93)",
@@ -223,7 +319,11 @@
       "Name": "Duman Rajak",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sajid Rehman Mandal (HO94)",
@@ -232,7 +332,11 @@
       "Name": "Sajid Rehman Mandal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Jitender Kumar Chowdhary (HO96)",
@@ -241,7 +345,11 @@
       "Name": "Jitender Kumar Chowdhary",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kartick Bangal (LBIS0078)",
@@ -250,7 +358,11 @@
       "Name": "Kartick Bangal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sk Abdul Rahaman (LBIC0260)",
@@ -259,7 +371,11 @@
       "Name": "Sk Abdul Rahaman",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Nirmalya Ghosh (LBIC0261)",
@@ -268,7 +384,11 @@
       "Name": "Nirmalya Ghosh",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sukumar Sardar (LBIC0270)",
@@ -277,7 +397,11 @@
       "Name": "Sukumar Sardar",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Poulam Kumar Maity (LBIC0283)",
@@ -286,7 +410,11 @@
       "Name": "Poulam Kumar Maity",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Surajit Maity (LBIC0289)",
@@ -295,7 +423,11 @@
       "Name": "Surajit Maity",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debdas Kotal (LBIC0291)",
@@ -304,7 +436,11 @@
       "Name": "Debdas Kotal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rakesh Kumar Singh (LBIC0296)",
@@ -313,7 +449,11 @@
       "Name": "Rakesh Kumar Singh",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sayed Soleman Ali (LBIC0298)",
@@ -322,7 +462,11 @@
       "Name": "Sayed Soleman Ali",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Surajit Naskar (LBIC0309)",
@@ -331,7 +475,11 @@
       "Name": "Surajit Naskar",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subrata Singha (LBIC0322)",
@@ -340,7 +488,11 @@
       "Name": "Subrata Singha",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Anindita Khan (LBIC0323)",
@@ -349,7 +501,11 @@
       "Name": "Anindita Khan",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Amit Sen (LBIC0324)",
@@ -358,7 +514,11 @@
       "Name": "Amit Sen",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subho Khatua (LBIC0325)",
@@ -367,7 +527,11 @@
       "Name": "Subho Khatua",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Amit Saha (LBIC0327)",
@@ -376,7 +540,11 @@
       "Name": "Amit Saha",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bijesh Kanti Mandal (LBIC0328)",
@@ -385,7 +553,11 @@
       "Name": "Bijesh Kanti Mandal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Malay Kundu (LBIC0330)",
@@ -394,7 +566,11 @@
       "Name": "Malay Kundu",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sudip Chakraborty (LBIC0331)",
@@ -403,7 +579,11 @@
       "Name": "Sudip Chakraborty",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bapan Porel (LBIC0337)",
@@ -412,7 +592,11 @@
       "Name": "Bapan Porel",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Arka Sharma (LBIC0354)",
@@ -421,7 +605,11 @@
       "Name": "Arka Sharma",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Jitendra Kumar Singh (LBIC0358)",
@@ -430,7 +618,11 @@
       "Name": "Jitendra Kumar Singh",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Vishal Patel (LBIC0362)",
@@ -439,7 +631,11 @@
       "Name": "Vishal Patel",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Basudev Dhua (LBIC0367)",
@@ -448,7 +644,11 @@
       "Name": "Basudev Dhua",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Utpal Naskar (LBIC0368)",
@@ -457,7 +657,11 @@
       "Name": "Utpal Naskar",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sudhir Roy (LBIC0371)",
@@ -466,7 +670,11 @@
       "Name": "Sudhir Roy",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Amit Bajaj (LBIC0376)",
@@ -475,7 +683,11 @@
       "Name": "Amit Bajaj",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Tapas Pal (LBIC0393)",
@@ -484,7 +696,11 @@
       "Name": "Tapas Pal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Avijit Dutta (LBIC0395)",
@@ -493,7 +709,11 @@
       "Name": "Avijit Dutta",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ananta Pramanik (LBIC0398)",
@@ -502,7 +722,11 @@
       "Name": "Ananta Pramanik",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Maniratna Roy (LBIC0404)",
@@ -511,7 +735,11 @@
       "Name": "Maniratna Roy",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ankit Ashok Tiwari (LBIC0435)",
@@ -520,7 +748,11 @@
       "Name": "Ankit Ashok Tiwari",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rakesh Kumar Singh (LBIC0441)",
@@ -529,7 +761,11 @@
       "Name": "Rakesh Kumar Singh",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Raja Mitra (LBIC0442)",
@@ -538,7 +774,11 @@
       "Name": "Raja Mitra",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Jayanta Chakraborty (LBIC0443)",
@@ -547,7 +787,11 @@
       "Name": "Jayanta Chakraborty",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Amit Kumar Naskar (LBIC0453)",
@@ -556,7 +800,11 @@
       "Name": "Amit Kumar Naskar",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Raj Kumar Halder (LBIC0459)",
@@ -565,7 +813,11 @@
       "Name": "Raj Kumar Halder",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Soumitra Pal (LBIC0467)",
@@ -574,7 +826,11 @@
       "Name": "Soumitra Pal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bhanu Sharma (LBIC0468)",
@@ -583,7 +839,11 @@
       "Name": "Bhanu Sharma",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Roshan Kumar Prajapati (LBIC0469)",
@@ -592,7 +852,11 @@
       "Name": "Roshan Kumar Prajapati",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abdul Azim (LBIC0470)",
@@ -601,7 +865,11 @@
       "Name": "Abdul Azim",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ardhendu Kulavi (LBIC0473)",
@@ -610,7 +878,11 @@
       "Name": "Ardhendu Kulavi",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abhisekh Kumar Srivastava (LBIC0474)",
@@ -619,7 +891,11 @@
       "Name": "Abhisekh Kumar Srivastava",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ashis Das (LBIC0475)",
@@ -628,7 +904,11 @@
       "Name": "Ashis Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kaushik Mondal (LBIC0478)",
@@ -637,7 +917,11 @@
       "Name": "Kaushik Mondal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Soumitra Mondal (LBIC0498)",
@@ -646,7 +930,11 @@
       "Name": "Soumitra Mondal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debashis Mondal (LBIC0499)",
@@ -655,7 +943,11 @@
       "Name": "Debashis Mondal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Biswajit Roy (LBIC0500)",
@@ -664,7 +956,11 @@
       "Name": "Biswajit Roy",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subham Mukherjee (LBIC0503)",
@@ -673,7 +969,11 @@
       "Name": "Subham Mukherjee",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Banshi Badan Mandal (LBIC0505)",
@@ -682,7 +982,11 @@
       "Name": "Banshi Badan Mandal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Diptiman Sinha (LBIC0506)",
@@ -691,7 +995,11 @@
       "Name": "Diptiman Sinha",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ikbal Hossain Mollick (LBIC0508)",
@@ -700,7 +1008,11 @@
       "Name": "Ikbal Hossain Mollick",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Niraj Kumar Sinha (LBIC0515)",
@@ -709,7 +1021,11 @@
       "Name": "Niraj Kumar Sinha",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sanjib Maity (LBIC0519)",
@@ -718,7 +1034,11 @@
       "Name": "Sanjib Maity",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Tapan Sahoo (LBIC0520)",
@@ -727,7 +1047,11 @@
       "Name": "Tapan Sahoo",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Poushali Das (LBIC0522)",
@@ -736,7 +1060,11 @@
       "Name": "Poushali Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subhadip Konar (LBIC0525)",
@@ -745,7 +1073,11 @@
       "Name": "Subhadip Konar",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kousik Thanader (LBIC0527)",
@@ -754,7 +1086,11 @@
       "Name": "Kousik Thanader",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Gopinath Samanta (LBIC0529)",
@@ -763,7 +1099,11 @@
       "Name": "Gopinath Samanta",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sagar Saha (LBIC0530)",
@@ -772,7 +1112,11 @@
       "Name": "Sagar Saha",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Raju Das (LBIC0531)",
@@ -781,7 +1125,11 @@
       "Name": "Raju Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Prasun Kumar Dey (LBST1070)",
@@ -790,7 +1138,11 @@
       "Name": "Prasun Kumar Dey",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dipak Kumar Sinha (LBICS019)",
@@ -799,7 +1151,11 @@
       "Name": "Dipak Kumar Sinha",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Tapas Kumar Sasmal (LBICUS04)",
@@ -808,7 +1164,11 @@
       "Name": "Tapas Kumar Sasmal",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abadhouta Maity (LBICUS05)",
@@ -817,7 +1177,11 @@
       "Name": "Abadhouta Maity",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ranjan Bar (LBICUS06)",
@@ -826,7 +1190,11 @@
       "Name": "Ranjan Bar",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Aloke Mondal (LBICUS07)",
@@ -835,7 +1203,11 @@
       "Name": "Aloke Mondal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Himadri Bhattacharyya (LBICUS10)",
@@ -844,7 +1216,11 @@
       "Name": "Himadri Bhattacharyya",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bikash Giri (LBICUS12)",
@@ -853,7 +1229,11 @@
       "Name": "Bikash Giri",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sujit Kumar Saha (LBICUS13)",
@@ -862,7 +1242,11 @@
       "Name": "Sujit Kumar Saha",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Srikanta Khunte (LBICUS14)",
@@ -871,7 +1255,11 @@
       "Name": "Srikanta Khunte",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Supriyo Mondal (LBICUS24)",
@@ -880,7 +1268,11 @@
       "Name": "Supriyo Mondal",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Babai Manna (LBICUS36)",
@@ -889,7 +1281,11 @@
       "Name": "Babai Manna",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Biplab Manna (LBICUS54)",
@@ -898,7 +1294,11 @@
       "Name": "Biplab Manna",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ashis Pramanik (LBICUS60)",
@@ -907,7 +1307,11 @@
       "Name": "Ashis Pramanik",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Paritosh Mondal (LBICUS62)",
@@ -916,7 +1320,11 @@
       "Name": "Paritosh Mondal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sudipta Kundu (LBICUS64)",
@@ -925,7 +1333,11 @@
       "Name": "Sudipta Kundu",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Mrityunjay Bar (LBICUW07)",
@@ -934,7 +1346,11 @@
       "Name": "Mrityunjay Bar",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sudhangshu Shee (LBICUW08)",
@@ -943,7 +1359,11 @@
       "Name": "Sudhangshu Shee",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ganesh Chandra Sahoo (LBIS0081)",
@@ -952,7 +1372,11 @@
       "Name": "Ganesh Chandra Sahoo",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sanatan Samanta (LBIS0082)",
@@ -961,7 +1385,11 @@
       "Name": "Sanatan Samanta",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sankari Chatterjee (LBS38)",
@@ -970,7 +1398,11 @@
       "Name": "Sankari Chatterjee",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Raghvendra Kumar Mishra (LBST0002)",
@@ -979,7 +1411,11 @@
       "Name": "Raghvendra Kumar Mishra",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Niladri Bhattacharyya (LBST0005)",
@@ -988,7 +1424,11 @@
       "Name": "Niladri Bhattacharyya",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sudhir Kumar Samal (LBST0007)",
@@ -997,7 +1437,11 @@
       "Name": "Sudhir Kumar Samal",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dhaneshwar Mirdha (LBST0009)",
@@ -1006,7 +1450,11 @@
       "Name": "Dhaneshwar Mirdha",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Narendra Kumar (LBST0016)",
@@ -1015,7 +1463,11 @@
       "Name": "Narendra Kumar",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ramresh Choudhuri (LBST0017)",
@@ -1024,7 +1476,11 @@
       "Name": "Ramresh Choudhuri",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sreekrishna Kundu (LBST0018)",
@@ -1033,7 +1489,11 @@
       "Name": "Sreekrishna Kundu",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Umesh Kumar Thakur (LBST0020)",
@@ -1042,7 +1502,11 @@
       "Name": "Umesh Kumar Thakur",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sekh Rustam Ali (LBST0021)",
@@ -1051,7 +1515,11 @@
       "Name": "Sekh Rustam Ali",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kuldeep Ram (LBST0023)",
@@ -1060,7 +1528,11 @@
       "Name": "Kuldeep Ram",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "G Bhaskar Rao (LBST0036)",
@@ -1069,7 +1541,11 @@
       "Name": "G Bhaskar Rao",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Gagan Bihari Swain (LBST0038)",
@@ -1078,7 +1554,11 @@
       "Name": "Gagan Bihari Swain",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sk Faruk Hossein (LBST0042)",
@@ -1087,7 +1567,11 @@
       "Name": "Sk Faruk Hossein",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Goutam Parui (LBST0055)",
@@ -1096,7 +1580,11 @@
       "Name": "Goutam Parui",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Suvam Samal (LBST0059)",
@@ -1105,7 +1593,11 @@
       "Name": "Suvam Samal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debanjan Manna (LBST0063)",
@@ -1114,7 +1606,11 @@
       "Name": "Debanjan Manna",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Amit Paik (LBST0064)",
@@ -1123,7 +1619,11 @@
       "Name": "Amit Paik",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bidyut Mondal (LBST0070)",
@@ -1132,7 +1632,11 @@
       "Name": "Bidyut Mondal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sibsankar Malakar (LBST0075)",
@@ -1141,7 +1645,11 @@
       "Name": "Sibsankar Malakar",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Srimanta Sahoo (LBST0091)",
@@ -1150,7 +1658,11 @@
       "Name": "Srimanta Sahoo",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Pulak Maity (LBST0093)",
@@ -1159,7 +1671,11 @@
       "Name": "Pulak Maity",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Nitai Barman (LBST0094)",
@@ -1168,7 +1684,11 @@
       "Name": "Nitai Barman",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debashis Bera (LBST0102)",
@@ -1177,7 +1697,11 @@
       "Name": "Debashis Bera",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sonit Sahoo (LBST0107)",
@@ -1186,7 +1710,11 @@
       "Name": "Sonit Sahoo",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sayed Maruf Hossain (LBST0114)",
@@ -1195,7 +1723,11 @@
       "Name": "Sayed Maruf Hossain",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Uttam Maity (LBST0125)",
@@ -1204,7 +1736,11 @@
       "Name": "Uttam Maity",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Arabindo Ghosh (LBST0127)",
@@ -1213,7 +1749,11 @@
       "Name": "Arabindo Ghosh",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Shuvankar Rana (LBST0149)",
@@ -1222,7 +1762,11 @@
       "Name": "Shuvankar Rana",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Vijay Kumar Sharma (LBST0157)",
@@ -1231,7 +1775,11 @@
       "Name": "Vijay Kumar Sharma",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Suneeta Mishra (LBST0163)",
@@ -1240,7 +1788,11 @@
       "Name": "Suneeta Mishra",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sumiran Barik (LBST0165)",
@@ -1249,7 +1801,11 @@
       "Name": "Sumiran Barik",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sudarshan Kumar Singh (LBST0166)",
@@ -1258,7 +1814,11 @@
       "Name": "Sudarshan Kumar Singh",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Samar Maity (LBST0181)",
@@ -1267,7 +1827,11 @@
       "Name": "Samar Maity",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debasish Kayal (LBST0191)",
@@ -1276,7 +1840,11 @@
       "Name": "Debasish Kayal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ranjit Paswan (LBST0210)",
@@ -1285,7 +1853,11 @@
       "Name": "Ranjit Paswan",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Manoj Kumar Paswan (LBST0236)",
@@ -1294,7 +1866,11 @@
       "Name": "Manoj Kumar Paswan",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Somnath Maity (LBST0238)",
@@ -1303,7 +1879,11 @@
       "Name": "Somnath Maity",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kumar Rahul Raj (LBST0243)",
@@ -1312,7 +1892,11 @@
       "Name": "Kumar Rahul Raj",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Binod Sahani (LBST025)",
@@ -1321,7 +1905,11 @@
       "Name": "Binod Sahani",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kaleshwar Yadav (LBST0251)",
@@ -1330,7 +1918,11 @@
       "Name": "Kaleshwar Yadav",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Shivam Chaturvedi (LBST0254)",
@@ -1339,7 +1931,11 @@
       "Name": "Shivam Chaturvedi",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kaushik Kundu (LBST0261)",
@@ -1348,7 +1944,11 @@
       "Name": "Kaushik Kundu",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abhijit Vijaykumar Paliya (LBST0268)",
@@ -1357,7 +1957,11 @@
       "Name": "Abhijit Vijaykumar Paliya",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "1200000"
+      "Proposed Sum insured": "1200000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Suvam Maity (LBST0275)",
@@ -1366,7 +1970,11 @@
       "Name": "Suvam Maity",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Biswanath Mondal (LBST0277)",
@@ -1375,7 +1983,11 @@
       "Name": "Biswanath Mondal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sk Rabiul Islam (LBST029)",
@@ -1384,7 +1996,11 @@
       "Name": "Sk Rabiul Islam",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Akash Das (LBST0292)",
@@ -1393,7 +2009,11 @@
       "Name": "Akash Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ramesh Kumar Rana (LBST0298)",
@@ -1402,7 +2022,11 @@
       "Name": "Ramesh Kumar Rana",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bhaskar Pramanik (LBST0302)",
@@ -1411,7 +2035,11 @@
       "Name": "Bhaskar Pramanik",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sumit Paul (LBST0306)",
@@ -1420,7 +2048,11 @@
       "Name": "Sumit Paul",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Santosh Sahadev Prajapati (LBST0309)",
@@ -1429,7 +2061,11 @@
       "Name": "Santosh Sahadev Prajapati",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Nilesh Kumar Ray (LBST031)",
@@ -1438,7 +2074,11 @@
       "Name": "Nilesh Kumar Ray",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abhijit Guria (LBST0317)",
@@ -1447,7 +2087,11 @@
       "Name": "Abhijit Guria",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Prem Pankaj Kumar Sah (LBST032)",
@@ -1456,7 +2100,11 @@
       "Name": "Prem Pankaj Kumar Sah",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Malay Kapat (LBST0321)",
@@ -1465,7 +2113,11 @@
       "Name": "Malay Kapat",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rajkishore Parida (LBST0324)",
@@ -1474,7 +2126,11 @@
       "Name": "Rajkishore Parida",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sk Abu Taher (LBST0328)",
@@ -1483,7 +2139,11 @@
       "Name": "Sk Abu Taher",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Pinaki Mukherjee (LBST0330)",
@@ -1492,7 +2152,11 @@
       "Name": "Pinaki Mukherjee",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Biplab Pramanik (LBST0350)",
@@ -1501,7 +2165,11 @@
       "Name": "Biplab Pramanik",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rakesh Kumar Sahoo (LBST0360)",
@@ -1510,7 +2178,11 @@
       "Name": "Rakesh Kumar Sahoo",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ananta Chowdhury (LBST0395)",
@@ -1519,7 +2191,11 @@
       "Name": "Ananta Chowdhury",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Apurba Kumar Parai (LBST0396)",
@@ -1528,7 +2204,11 @@
       "Name": "Apurba Kumar Parai",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Suman Bhunia (LBST0400)",
@@ -1537,7 +2217,11 @@
       "Name": "Suman Bhunia",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debabrata Chakraborty (LBST0415)",
@@ -1546,7 +2230,11 @@
       "Name": "Debabrata Chakraborty",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Vijay Shivpratap Tripathi (LBST0438)",
@@ -1555,7 +2243,11 @@
       "Name": "Vijay Shivpratap Tripathi",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Biswajit Parua (LBST044)",
@@ -1564,7 +2256,11 @@
       "Name": "Biswajit Parua",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subhankar Shaw (LBST0457)",
@@ -1573,7 +2269,11 @@
       "Name": "Subhankar Shaw",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Shilpa Paul (LBST0458)",
@@ -1582,7 +2282,11 @@
       "Name": "Shilpa Paul",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debrup Pratap Patra (LBST0459)",
@@ -1591,7 +2295,11 @@
       "Name": "Debrup Pratap Patra",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Shankar Kumar (LBST0460)",
@@ -1600,7 +2308,11 @@
       "Name": "Shankar Kumar",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sandeep Ramnath Bhukele (LBST0462)",
@@ -1609,7 +2321,11 @@
       "Name": "Sandeep Ramnath Bhukele",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Amit Samanta (LBST0483)",
@@ -1618,7 +2334,11 @@
       "Name": "Amit Samanta",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Prasenjit Sasmal (LBST0493)",
@@ -1627,7 +2347,11 @@
       "Name": "Prasenjit Sasmal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dwijendra Nath Sahoo (LBST0506)",
@@ -1636,7 +2360,11 @@
       "Name": "Dwijendra Nath Sahoo",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sarthak Senapati (LBST0511)",
@@ -1645,7 +2373,11 @@
       "Name": "Sarthak Senapati",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Alok Kumar Garang (LBST0517)",
@@ -1654,7 +2386,11 @@
       "Name": "Alok Kumar Garang",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Saikat Das (LBST0518)",
@@ -1663,7 +2399,11 @@
       "Name": "Saikat Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Deonarayan Sujay Mahendra (LBST0533)",
@@ -1672,7 +2412,11 @@
       "Name": "Deonarayan Sujay Mahendra",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bappaditya Mondal (LBST0538)",
@@ -1681,7 +2425,11 @@
       "Name": "Bappaditya Mondal",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abhimanyu Gupta (LBST0547)",
@@ -1690,7 +2438,11 @@
       "Name": "Abhimanyu Gupta",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Peeyush Jain (LBST0549)",
@@ -1699,7 +2451,11 @@
       "Name": "Peeyush Jain",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rajkamal Dhara (LBST0556)",
@@ -1708,7 +2464,11 @@
       "Name": "Rajkamal Dhara",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sandeep Kumar Yadav (LBST0566)",
@@ -1717,7 +2477,11 @@
       "Name": "Sandeep Kumar Yadav",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Baisakhi Das Biswas (LBST0568)",
@@ -1726,7 +2490,11 @@
       "Name": "Baisakhi Das Biswas",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Avinash Ashok Bagul (LBST0582)",
@@ -1735,7 +2503,11 @@
       "Name": "Avinash Ashok Bagul",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rahul Jaywant Jadhav (LBST0583)",
@@ -1744,7 +2516,11 @@
       "Name": "Rahul Jaywant Jadhav",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Vineet Kumar Singh (LBST0636)",
@@ -1753,7 +2529,11 @@
       "Name": "Vineet Kumar Singh",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ramprasad Jana (LBST0639)",
@@ -1762,7 +2542,11 @@
       "Name": "Ramprasad Jana",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Mayank Jhunjunwala (LBST0651)",
@@ -1771,7 +2555,11 @@
       "Name": "Mayank Jhunjunwala",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Basanta Kumar Gouda (LBST0665)",
@@ -1780,7 +2568,11 @@
       "Name": "Basanta Kumar Gouda",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dharmendra Ramnath Gupta (LBST0668)",
@@ -1789,7 +2581,11 @@
       "Name": "Dharmendra Ramnath Gupta",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ramananda Jana (LBST0677)",
@@ -1798,7 +2594,11 @@
       "Name": "Ramananda Jana",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abhishek Singh (LBST0681)",
@@ -1807,7 +2607,11 @@
       "Name": "Abhishek Singh",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Saayan Sengupta (LBST0695)",
@@ -1816,7 +2620,11 @@
       "Name": "Saayan Sengupta",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Krashna Kumar (LBST0696)",
@@ -1825,7 +2633,11 @@
       "Name": "Krashna Kumar",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Om Prakash Yadav (LBST0704)",
@@ -1834,7 +2646,11 @@
       "Name": "Om Prakash Yadav",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rashgobinda Kundu (LBST0712)",
@@ -1843,7 +2659,11 @@
       "Name": "Rashgobinda Kundu",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sarfaraz Mondal (LBST0719)",
@@ -1852,7 +2672,11 @@
       "Name": "Sarfaraz Mondal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Biplab Das Adhikari (LBST0725)",
@@ -1861,7 +2685,11 @@
       "Name": "Biplab Das Adhikari",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sheoshankar Ramsamujh Mishra (LBST0727)",
@@ -1870,7 +2698,11 @@
       "Name": "Sheoshankar Ramsamujh Mishra",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "1200000"
+      "Proposed Sum insured": "1200000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ritesh Kumar Singh (LBST0738)",
@@ -1879,7 +2711,11 @@
       "Name": "Ritesh Kumar Singh",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Md Imran (LBST0758)",
@@ -1888,7 +2724,11 @@
       "Name": "Md Imran",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Nale Laxman Arjun (LBST0764)",
@@ -1897,7 +2737,11 @@
       "Name": "Nale Laxman Arjun",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Vikash Kumar Srivastav (LBST0770)",
@@ -1906,7 +2750,11 @@
       "Name": "Vikash Kumar Srivastav",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debabrata Maity (LBST0771)",
@@ -1915,7 +2763,11 @@
       "Name": "Debabrata Maity",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rajendra Nand (LBST0775)",
@@ -1924,7 +2776,11 @@
       "Name": "Rajendra Nand",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Amit Raj (LBST0785)",
@@ -1933,7 +2789,11 @@
       "Name": "Amit Raj",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Varun Tiwari (LBST0786)",
@@ -1942,7 +2802,11 @@
       "Name": "Varun Tiwari",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Santu Hazra (LBST0787)",
@@ -1951,7 +2815,11 @@
       "Name": "Santu Hazra",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debabrata Pramanik (LBST0794)",
@@ -1960,7 +2828,11 @@
       "Name": "Debabrata Pramanik",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Siddhartha Maity (LBST0795)",
@@ -1969,7 +2841,11 @@
       "Name": "Siddhartha Maity",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Shikhar Bhattacharyya (LBST0858)",
@@ -1978,7 +2854,11 @@
       "Name": "Shikhar Bhattacharyya",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abhay Sharad Kale (LBST0860)",
@@ -1987,7 +2867,11 @@
       "Name": "Abhay Sharad Kale",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dipankar Dandapat (LBST0867)",
@@ -1996,7 +2880,11 @@
       "Name": "Dipankar Dandapat",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Md Toukir Alam (LBST0871)",
@@ -2005,7 +2893,11 @@
       "Name": "Md Toukir Alam",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Omkar Shankar Mane (LBST0887)",
@@ -2014,7 +2906,11 @@
       "Name": "Omkar Shankar Mane",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Srinivas Vella (LBST0891)",
@@ -2023,7 +2919,11 @@
       "Name": "Srinivas Vella",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Shyam Sundar Singh (LBST0892)",
@@ -2032,7 +2932,11 @@
       "Name": "Shyam Sundar Singh",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rahul Bhikaji Varne (LBST0899)",
@@ -2041,7 +2945,11 @@
       "Name": "Rahul Bhikaji Varne",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Prasenjit Puri (LBST0904)",
@@ -2050,7 +2958,11 @@
       "Name": "Prasenjit Puri",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Susanta Samanta (LBST0910)",
@@ -2059,7 +2971,11 @@
       "Name": "Susanta Samanta",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kousik Hazra (LBST0911)",
@@ -2068,7 +2984,11 @@
       "Name": "Kousik Hazra",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Susanta Roy (LBST0913)",
@@ -2077,7 +2997,11 @@
       "Name": "Susanta Roy",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kaushik Dutta (LBST0917)",
@@ -2086,7 +3010,11 @@
       "Name": "Kaushik Dutta",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Mohammad Imran (LBST0918)",
@@ -2095,7 +3023,11 @@
       "Name": "Mohammad Imran",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subha Kumar Singha (LBST0922)",
@@ -2104,7 +3036,11 @@
       "Name": "Subha Kumar Singha",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Santosh Kumar Pal (LBST0927)",
@@ -2113,7 +3049,11 @@
       "Name": "Santosh Kumar Pal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sourav Banerjee (LBST0936)",
@@ -2122,7 +3062,11 @@
       "Name": "Sourav Banerjee",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Nitesh Kumar Dubey (LBST0938)",
@@ -2131,7 +3075,11 @@
       "Name": "Nitesh Kumar Dubey",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Pijush Maity (LBST0946)",
@@ -2140,7 +3088,11 @@
       "Name": "Pijush Maity",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Zakir Hussain (LBST0947)",
@@ -2149,7 +3101,11 @@
       "Name": "Zakir Hussain",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kartik Adak (LBST0948)",
@@ -2158,7 +3114,11 @@
       "Name": "Kartik Adak",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Tanmoy Roy (LBST0949)",
@@ -2167,7 +3127,11 @@
       "Name": "Tanmoy Roy",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Prasanna Vasant Bandivadekar (LBST0953)",
@@ -2176,7 +3140,11 @@
       "Name": "Prasanna Vasant Bandivadekar",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Somen Chakraborty (LBST0958)",
@@ -2185,7 +3153,11 @@
       "Name": "Somen Chakraborty",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Parikhit Jana (LBST0959)",
@@ -2194,7 +3166,11 @@
       "Name": "Parikhit Jana",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abhishek Kumar (LBST0960)",
@@ -2203,7 +3179,11 @@
       "Name": "Abhishek Kumar",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kartick Mandi (LBST0965)",
@@ -2212,7 +3192,11 @@
       "Name": "Kartick Mandi",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sourav Samanta (LBST0967)",
@@ -2221,7 +3205,11 @@
       "Name": "Sourav Samanta",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Supriya Bishal (LBST0972)",
@@ -2230,7 +3218,11 @@
       "Name": "Supriya Bishal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Suman Chatterjee (LBST0977)",
@@ -2239,7 +3231,11 @@
       "Name": "Suman Chatterjee",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subash Chandra Behera (LBST0981)",
@@ -2248,7 +3244,11 @@
       "Name": "Subash Chandra Behera",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Goutam Pal (LBST0993)",
@@ -2257,7 +3257,11 @@
       "Name": "Goutam Pal",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subhankar Dutta (LBST0995)",
@@ -2266,7 +3270,11 @@
       "Name": "Subhankar Dutta",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Suman Paul (LBST0997)",
@@ -2275,7 +3283,11 @@
       "Name": "Suman Paul",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Shivani Mogha (LBST1003)",
@@ -2284,7 +3296,11 @@
       "Name": "Shivani Mogha",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dut Kumar Patra (LBST1014)",
@@ -2293,7 +3309,11 @@
       "Name": "Dut Kumar Patra",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Chittaranjana Das (LBST1018)",
@@ -2302,7 +3322,11 @@
       "Name": "Chittaranjana Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Santu Barik (LBST1021)",
@@ -2311,7 +3335,11 @@
       "Name": "Santu Barik",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Chirag Thakur (LBST1023)",
@@ -2320,7 +3348,11 @@
       "Name": "Chirag Thakur",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dipesh Bhojnagarwala (LBST1025)",
@@ -2329,7 +3361,11 @@
       "Name": "Dipesh Bhojnagarwala",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Tanmoy Basak (LBST1026)",
@@ -2338,7 +3374,11 @@
       "Name": "Tanmoy Basak",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Arindam Ghanta (LBST1048)",
@@ -2347,7 +3387,11 @@
       "Name": "Arindam Ghanta",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rabindranath Maity (LBST1050)",
@@ -2356,7 +3400,11 @@
       "Name": "Rabindranath Maity",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Chitta Ranjan Dey (LBST1053)",
@@ -2365,7 +3413,11 @@
       "Name": "Chitta Ranjan Dey",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debraj Naskar (LBST1058)",
@@ -2374,7 +3426,11 @@
       "Name": "Debraj Naskar",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bishal Roy (LBST1059)",
@@ -2383,7 +3439,11 @@
       "Name": "Bishal Roy",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Saumen Kumar Sabud (LBST1061)",
@@ -2392,7 +3452,11 @@
       "Name": "Saumen Kumar Sabud",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rajib Ghorai (LBST1062)",
@@ -2401,7 +3465,11 @@
       "Name": "Rajib Ghorai",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Munna Kumar Sharma (LBST1065)",
@@ -2410,7 +3478,11 @@
       "Name": "Munna Kumar Sharma",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Prafulla Maity (LBST1068)",
@@ -2419,7 +3491,11 @@
       "Name": "Prafulla Maity",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sarvesh Rai (LBST1069)",
@@ -2428,7 +3504,11 @@
       "Name": "Sarvesh Rai",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Shanky Singh (LBST1077)",
@@ -2437,7 +3517,11 @@
       "Name": "Shanky Singh",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dinbandhu Kumar Nayak (LBST1079)",
@@ -2446,7 +3530,11 @@
       "Name": "Dinbandhu Kumar Nayak",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "1200000"
+      "Proposed Sum insured": "1200000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Gulshan Parekar (LBST1081)",
@@ -2455,7 +3543,11 @@
       "Name": "Gulshan Parekar",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Narayan Prasad Ganeriwala (LBST1083)",
@@ -2464,7 +3556,11 @@
       "Name": "Narayan Prasad Ganeriwala",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Souvik Das (LBST1088)",
@@ -2473,7 +3569,11 @@
       "Name": "Souvik Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kalipada Samanta (LBST1089)",
@@ -2482,7 +3582,11 @@
       "Name": "Kalipada Samanta",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Harikesh Pandey (LBST1091)",
@@ -2491,7 +3595,11 @@
       "Name": "Harikesh Pandey",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Prasad Jayanta Deshpande (LBST1092)",
@@ -2500,7 +3608,11 @@
       "Name": "Prasad Jayanta Deshpande",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sanjit Panda (LBST1099)",
@@ -2509,7 +3621,11 @@
       "Name": "Sanjit Panda",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Suman Santra (LBST1103)",
@@ -2518,7 +3634,11 @@
       "Name": "Suman Santra",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sayan Bera (LBST1106)",
@@ -2527,7 +3647,11 @@
       "Name": "Sayan Bera",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Narad Das (LBST1108)",
@@ -2536,7 +3660,11 @@
       "Name": "Narad Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Neeraj Sureka (LBST1109)",
@@ -2545,7 +3673,11 @@
       "Name": "Neeraj Sureka",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "1200000"
+      "Proposed Sum insured": "1200000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Doyel Ray (LBST1110)",
@@ -2554,7 +3686,11 @@
       "Name": "Doyel Ray",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subhas Agarwal (LBST1111)",
@@ -2563,7 +3699,11 @@
       "Name": "Subhas Agarwal",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sunita Ghosh (LBST1113)",
@@ -2572,7 +3712,11 @@
       "Name": "Sunita Ghosh",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subhajit Das (LBST1118)",
@@ -2581,7 +3725,11 @@
       "Name": "Subhajit Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abhijit Mondal (LBST1120)",
@@ -2590,7 +3738,11 @@
       "Name": "Abhijit Mondal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Payel Sinha Chowdhury (LBST1123)",
@@ -2599,7 +3751,11 @@
       "Name": "Payel Sinha Chowdhury",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sanjay Kumar Biswal (LBST1127)",
@@ -2608,7 +3764,11 @@
       "Name": "Sanjay Kumar Biswal",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Varun Mundhra (LBST1128)",
@@ -2617,7 +3777,11 @@
       "Name": "Varun Mundhra",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Siddheyswar Das (LBST1130)",
@@ -2626,7 +3790,11 @@
       "Name": "Siddheyswar Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sandeep Kumar Das (LBST1144)",
@@ -2635,7 +3803,11 @@
       "Name": "Sandeep Kumar Das",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Arunabha Mitra (LBST1154)",
@@ -2644,7 +3816,11 @@
       "Name": "Arunabha Mitra",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Anindita Dey (LBST1162)",
@@ -2653,7 +3829,11 @@
       "Name": "Anindita Dey",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sweta Chanchal (LBST1163)",
@@ -2662,7 +3842,11 @@
       "Name": "Sweta Chanchal",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Soumen Kumar Bera (LBST1164)",
@@ -2671,7 +3855,11 @@
       "Name": "Soumen Kumar Bera",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Riksundar Samanta (LBST1166)",
@@ -2680,7 +3868,11 @@
       "Name": "Riksundar Samanta",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Soumitra Mukhopadhyay (LBST1169)",
@@ -2689,7 +3881,11 @@
       "Name": "Soumitra Mukhopadhyay",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Hemant Mohta (LBST1170)",
@@ -2698,7 +3894,11 @@
       "Name": "Hemant Mohta",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sekhar Basu (LBST1176)",
@@ -2707,7 +3907,11 @@
       "Name": "Sekhar Basu",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sagar Kar (LBST1177)",
@@ -2716,7 +3920,11 @@
       "Name": "Sagar Kar",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sanjib Ghosh (LBST1178)",
@@ -2725,7 +3933,11 @@
       "Name": "Sanjib Ghosh",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Saaquib Mustafa (LBST1179)",
@@ -2734,7 +3946,11 @@
       "Name": "Saaquib Mustafa",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sk Azaharuddin (LBST1180)",
@@ -2743,7 +3959,11 @@
       "Name": "Sk Azaharuddin",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Udaya Nath Peda (LBST1185)",
@@ -2752,7 +3972,11 @@
       "Name": "Udaya Nath Peda",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dibyendu Pal (LBST223)",
@@ -2761,21 +3985,33 @@
       "Name": "Dibyendu Pal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee Code": "No Code",
       "Name": "ANIL KUMAR AGNIHOTRI",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee Code": "No Code",
       "Name": "Sujay Dey",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Suprateek Bandyopadhyay PEW00099)",
@@ -2784,7 +4020,11 @@
       "Name": "Suprateek Bandyopadhyay",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sumit Gupta PEW00104)",
@@ -2793,7 +4033,11 @@
       "Name": "Sumit Gupta",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Tanmay Roy PEW00105)",
@@ -2802,7 +4046,11 @@
       "Name": "Tanmay Roy",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dipak Sharma PEW00108)",
@@ -2811,7 +4059,11 @@
       "Name": "Dipak Sharma",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ugrasen PEW00123)",
@@ -2820,7 +4072,11 @@
       "Name": "Ugrasen",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sovan Maity PEW00128)",
@@ -2829,7 +4085,11 @@
       "Name": "Sovan Maity",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sekh Md Bakibillah PEW00131)",
@@ -2838,7 +4098,11 @@
       "Name": "Sekh Md Bakibillah",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abdul Ghani PEW00135)",
@@ -2847,7 +4111,11 @@
       "Name": "Abdul Ghani",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debasish Ghosh PEW00144)",
@@ -2856,7 +4124,11 @@
       "Name": "Debasish Ghosh",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bikash Kumar Singh PEW00145)",
@@ -2865,7 +4137,11 @@
       "Name": "Bikash Kumar Singh",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sumanta Sarkar PEW00146)",
@@ -2874,7 +4150,11 @@
       "Name": "Sumanta Sarkar",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abhishek Raj PEW00148)",
@@ -2883,7 +4163,11 @@
       "Name": "Abhishek Raj",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Somnath Dey PEW00158)",
@@ -2892,7 +4176,11 @@
       "Name": "Somnath Dey",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "D Ramesh PEW00173)",
@@ -2901,7 +4189,11 @@
       "Name": "D Ramesh",
       "Current Sum Insured": 300000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rafiqul Alam Khan PEW00175)",
@@ -2910,7 +4202,11 @@
       "Name": "Rafiqul Alam Khan",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ramesh Pal PEW101)",
@@ -2919,7 +4215,11 @@
       "Name": "Ramesh Pal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Surendra Mishra PEWS001)",
@@ -2928,7 +4228,11 @@
       "Name": "Surendra Mishra",
       "Current Sum Insured": 500000,
       "Current Monthly Premium": 2000,
-      "Proposed Sum insured": "800000"
+      "Proposed Sum insured": "800000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Santosh Kumar Shaw PEWS002)",
@@ -2937,7 +4241,11 @@
       "Name": "Santosh Kumar Shaw",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 1000,
-      "Proposed Sum insured": "500000"
+      "Proposed Sum insured": "500000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sk Shahnawaz Rahim PEWS007)",
@@ -2946,7 +4254,11 @@
       "Name": "Sk Shahnawaz Rahim",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kamal Das PEWS009)",
@@ -2955,7 +4267,11 @@
       "Name": "Kamal Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sudip Kumar Dutta PEWS013)",
@@ -2964,7 +4280,11 @@
       "Name": "Sudip Kumar Dutta",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Aritra Mondal PEWS014)",
@@ -2973,7 +4293,11 @@
       "Name": "Aritra Mondal",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ajay Tiwari PEWS016)",
@@ -2982,7 +4306,11 @@
       "Name": "Ajay Tiwari",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Pawan Dubey PEWS017)",
@@ -2991,7 +4319,11 @@
       "Name": "Pawan Dubey",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abhijit Das PEWS018)",
@@ -3000,7 +4332,11 @@
       "Name": "Abhijit Das",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dibendu Khara  PEWS021)",
@@ -3009,7 +4345,11 @@
       "Name": "Dibendu Khara ",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Giyasuddin Mollah PEWS022)",
@@ -3018,7 +4358,11 @@
       "Name": "Giyasuddin Mollah",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ranjit Polley PEWW002)",
@@ -3027,7 +4371,11 @@
       "Name": "Ranjit Polley",
       "Current Sum Insured": 200000,
       "Current Monthly Premium": 800,
-      "Proposed Sum insured": 300000
+      "Proposed Sum insured": 300000,
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debnath Saha HO14)",
@@ -3036,7 +4384,11 @@
       "Name": "Debnath Saha",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sayandip Patra HO15)",
@@ -3045,7 +4397,11 @@
       "Name": "Sayandip Patra",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Atin Pramanick HO16)",
@@ -3054,7 +4410,11 @@
       "Name": "Atin Pramanick",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rupam Chatterjee HO52)",
@@ -3063,7 +4423,11 @@
       "Name": "Rupam Chatterjee",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Anupriya Bose LBIC0231)",
@@ -3072,7 +4436,11 @@
       "Name": "Anupriya Bose",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sudip Kumar Pramanik LBIC0235)",
@@ -3081,7 +4449,11 @@
       "Name": "Sudip Kumar Pramanik",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subha Samanta LBIC0243)",
@@ -3090,7 +4462,11 @@
       "Name": "Subha Samanta",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Suman Saha LBIC0251)",
@@ -3099,7 +4475,11 @@
       "Name": "Suman Saha",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subhendu Ghosh LBIC0279)",
@@ -3108,7 +4488,11 @@
       "Name": "Subhendu Ghosh",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sourav Sahoo LBIC0280)",
@@ -3117,7 +4501,11 @@
       "Name": "Sourav Sahoo",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sounak Roy LBIC0294)",
@@ -3126,7 +4514,11 @@
       "Name": "Sounak Roy",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Debabrata Das LBIC0299)",
@@ -3135,7 +4527,11 @@
       "Name": "Debabrata Das",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Md Nurul Hasan Laskar LBIC0329)",
@@ -3144,7 +4540,11 @@
       "Name": "Md Nurul Hasan Laskar",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SAHIL MONDAL LBIC0346)",
@@ -3153,7 +4553,11 @@
       "Name": "SAHIL MONDAL",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subhajit Maity LBIC0349)",
@@ -3162,7 +4566,11 @@
       "Name": "Subhajit Maity",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Puspita Paul LBIC0355)",
@@ -3171,7 +4579,11 @@
       "Name": "Puspita Paul",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bijoy Kumar Das LBIC0385)",
@@ -3180,7 +4592,11 @@
       "Name": "Bijoy Kumar Das",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ayan Halder LBIC0390)",
@@ -3189,7 +4605,11 @@
       "Name": "Ayan Halder",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Amit Das Adhikary LBIC0391)",
@@ -3198,7 +4618,11 @@
       "Name": "Amit Das Adhikary",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Amit Jana LBIC0394)",
@@ -3207,7 +4631,11 @@
       "Name": "Amit Jana",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Hritwik Sardar LBIC0396)",
@@ -3216,7 +4644,11 @@
       "Name": "Hritwik Sardar",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Krishanu Nandi LBIC0397)",
@@ -3225,7 +4657,11 @@
       "Name": "Krishanu Nandi",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Suman Chakraborty LBIC0402)",
@@ -3234,7 +4670,11 @@
       "Name": "Suman Chakraborty",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Priyabrata Bera LBIC0452)",
@@ -3243,7 +4683,11 @@
       "Name": "Priyabrata Bera",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subhendu Khatua LBIC0471)",
@@ -3252,7 +4696,11 @@
       "Name": "Subhendu Khatua",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Biswajit Bera LBIC0476)",
@@ -3261,7 +4709,11 @@
       "Name": "Biswajit Bera",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Soumya Maity LBIC0481)",
@@ -3270,7 +4722,11 @@
       "Name": "Soumya Maity",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Soumya Patra LBIC0485)",
@@ -3279,7 +4735,11 @@
       "Name": "Soumya Patra",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Kuntal Ghosh LBIC0489)",
@@ -3288,7 +4748,11 @@
       "Name": "Kuntal Ghosh",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bishal Mallick LBIC0492)",
@@ -3297,7 +4761,11 @@
       "Name": "Bishal Mallick",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dipankar Ghoroi LBIC0493)",
@@ -3306,7 +4774,11 @@
       "Name": "Dipankar Ghoroi",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Priyajit Dolai LBIC0495)",
@@ -3315,7 +4787,11 @@
       "Name": "Priyajit Dolai",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sanjoy Baksi LBIC0509)",
@@ -3324,7 +4800,11 @@
       "Name": "Sanjoy Baksi",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sudipta Hazra LBIC0510)",
@@ -3333,7 +4813,11 @@
       "Name": "Sudipta Hazra",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Parmar Jayesh Manubhai LBIC0513)",
@@ -3342,7 +4826,11 @@
       "Name": "Parmar Jayesh Manubhai",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Apurba Mondal LBIC0514)",
@@ -3351,7 +4839,11 @@
       "Name": "Apurba Mondal",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Krishna Gopal Samanta LBIC0542)",
@@ -3360,7 +4852,11 @@
       "Name": "Krishna Gopal Samanta",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subhajit Khatua LBIC0544)",
@@ -3369,7 +4865,11 @@
       "Name": "Subhajit Khatua",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dipak Kumar Bera LBIC0545)",
@@ -3378,7 +4878,11 @@
       "Name": "Dipak Kumar Bera",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ramen Guchhait LBICUS72)",
@@ -3387,7 +4891,11 @@
       "Name": "Ramen Guchhait",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SUVENDU ADHIKARI LBST0100)",
@@ -3396,7 +4904,11 @@
       "Name": "SUVENDU ADHIKARI",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "PRADIPTA MAITY LBST0211)",
@@ -3405,7 +4917,11 @@
       "Name": "PRADIPTA MAITY",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SAIKAT DAS LBST0283)",
@@ -3414,7 +4930,11 @@
       "Name": "SAIKAT DAS",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SANTANU JANA LBST0289)",
@@ -3423,7 +4943,11 @@
       "Name": "SANTANU JANA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "KUNDAN MAJI LBST0316)",
@@ -3432,7 +4956,11 @@
       "Name": "KUNDAN MAJI",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "MADHUSUDAN GUCHHAIT LBST0320)",
@@ -3441,7 +4969,11 @@
       "Name": "MADHUSUDAN GUCHHAIT",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SAYAN BAG LBST0368)",
@@ -3450,7 +4982,11 @@
       "Name": "SAYAN BAG",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "ANIMESH KHATUA LBST0401)",
@@ -3459,7 +4995,11 @@
       "Name": "ANIMESH KHATUA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SANDIP BARIK LBST0416)",
@@ -3468,7 +5008,11 @@
       "Name": "SANDIP BARIK",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "ANUPAM SAHOO LBST0423)",
@@ -3477,7 +5021,11 @@
       "Name": "ANUPAM SAHOO",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "PRASANTA SHEE LBST0480)",
@@ -3486,7 +5034,11 @@
       "Name": "PRASANTA SHEE",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "BIDHAN CHANDRA GHARA LBST0482)",
@@ -3495,7 +5047,11 @@
       "Name": "BIDHAN CHANDRA GHARA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "MILAN MAITY LBST0499)",
@@ -3504,7 +5060,11 @@
       "Name": "MILAN MAITY",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SANJIB MONDAL LBST0504)",
@@ -3513,7 +5073,11 @@
       "Name": "SANJIB MONDAL",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SANAJIT MAITY LBST0513)",
@@ -3522,7 +5086,11 @@
       "Name": "SANAJIT MAITY",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SUMANTA PAUL LBST0523)",
@@ -3531,7 +5099,11 @@
       "Name": "SUMANTA PAUL",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SUMAN JANA LBST0527)",
@@ -3540,7 +5112,11 @@
       "Name": "SUMAN JANA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "JAYANTA MANNA LBST0530)",
@@ -3549,7 +5125,11 @@
       "Name": "JAYANTA MANNA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "KUSUNKUR GHORAI LBST0535)",
@@ -3558,7 +5138,11 @@
       "Name": "KUSUNKUR GHORAI",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "PURNENDU MAITY LBST0539)",
@@ -3567,7 +5151,11 @@
       "Name": "PURNENDU MAITY",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "PRAJJAL SAMANTA LBST0540)",
@@ -3576,7 +5164,11 @@
       "Name": "PRAJJAL SAMANTA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "HEMANTA MONDAL LBST0572)",
@@ -3585,7 +5177,11 @@
       "Name": "HEMANTA MONDAL",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SINTU GHORAI LBST0575)",
@@ -3594,7 +5190,11 @@
       "Name": "SINTU GHORAI",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "ASIM MANNA LBST0576)",
@@ -3603,7 +5203,11 @@
       "Name": "ASIM MANNA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Avinash Rohidas Dalvi LBST0584)",
@@ -3612,7 +5216,11 @@
       "Name": "Avinash Rohidas Dalvi",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "PRASENJIT MONDAL LBST0588)",
@@ -3621,7 +5229,11 @@
       "Name": "PRASENJIT MONDAL",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SUBHAJIT GARU LBST0592)",
@@ -3630,7 +5242,11 @@
       "Name": "SUBHAJIT GARU",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "PRADIP KUMAR ROY LBST0596)",
@@ -3639,7 +5255,11 @@
       "Name": "PRADIP KUMAR ROY",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SUBHRANSU SEKHAR SAMAL LBST0604)",
@@ -3648,7 +5268,11 @@
       "Name": "SUBHRANSU SEKHAR SAMAL",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "PALASH KUMAR MALLIK LBST0618)",
@@ -3657,7 +5281,11 @@
       "Name": "PALASH KUMAR MALLIK",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Koushik Samanta LBST0641)",
@@ -3666,7 +5294,11 @@
       "Name": "Koushik Samanta",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Koushik Karan LBST0646)",
@@ -3675,7 +5307,11 @@
       "Name": "Koushik Karan",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Amal Kumar Maity LBST0650)",
@@ -3684,7 +5320,11 @@
       "Name": "Amal Kumar Maity",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Gopal Chandra Dasadhikari LBST0653)",
@@ -3693,7 +5333,11 @@
       "Name": "Gopal Chandra Dasadhikari",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Atish Kar LBST0654)",
@@ -3702,7 +5346,11 @@
       "Name": "Atish Kar",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sayan santra LBST0657)",
@@ -3711,7 +5359,11 @@
       "Name": "Sayan santra",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "NILANKA JANA LBST0667)",
@@ -3720,7 +5372,11 @@
       "Name": "NILANKA JANA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "MILAN HAIT LBST0671)",
@@ -3729,7 +5385,11 @@
       "Name": "MILAN HAIT",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Tias Sahoo LBST0673)",
@@ -3738,7 +5398,11 @@
       "Name": "Tias Sahoo",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SOUVIK BANERJEE LBST0679)",
@@ -3747,7 +5411,11 @@
       "Name": "SOUVIK BANERJEE",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "RINKU DEY LBST0680)",
@@ -3756,7 +5424,11 @@
       "Name": "RINKU DEY",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dibyendu Paramanik LBST0682)",
@@ -3765,7 +5437,11 @@
       "Name": "Dibyendu Paramanik",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SOUVIK SAMANTA LBST0683)",
@@ -3774,7 +5450,11 @@
       "Name": "SOUVIK SAMANTA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Vivekananda Das LBST0684)",
@@ -3783,7 +5463,11 @@
       "Name": "Vivekananda Das",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bholanath Das LBST0685)",
@@ -3792,7 +5476,11 @@
       "Name": "Bholanath Das",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Partha Pratim Das LBST0686)",
@@ -3801,7 +5489,11 @@
       "Name": "Partha Pratim Das",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Partha Sarathi Chitrakar LBST0687)",
@@ -3810,7 +5502,11 @@
       "Name": "Partha Sarathi Chitrakar",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SANJAY PATRA LBST0688)",
@@ -3819,7 +5515,11 @@
       "Name": "SANJAY PATRA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SOUPAN JANA LBST0690)",
@@ -3828,7 +5528,11 @@
       "Name": "SOUPAN JANA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Tamal Kanti Raul LBST0691)",
@@ -3837,7 +5541,11 @@
       "Name": "Tamal Kanti Raul",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "PRADYOT DAS LBST0692)",
@@ -3846,7 +5554,11 @@
       "Name": "PRADYOT DAS",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SOURAV PATRA LBST0693)",
@@ -3855,7 +5567,11 @@
       "Name": "SOURAV PATRA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "BUDDHADEB DAS LBST0702)",
@@ -3864,7 +5580,11 @@
       "Name": "BUDDHADEB DAS",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sudeshna Guha LBST0703)",
@@ -3873,7 +5593,11 @@
       "Name": "Sudeshna Guha",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "ARIJIT KARMAKAR LBST0707)",
@@ -3882,7 +5606,11 @@
       "Name": "ARIJIT KARMAKAR",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SOMNATH MAJI LBST0737)",
@@ -3891,7 +5619,11 @@
       "Name": "SOMNATH MAJI",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SITAL ADAK LBST0740)",
@@ -3900,7 +5632,11 @@
       "Name": "SITAL ADAK",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "BIKASH ACHARYYA LBST0743)",
@@ -3909,7 +5645,11 @@
       "Name": "BIKASH ACHARYYA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SANDIP DIGAR LBST0745)",
@@ -3918,7 +5658,11 @@
       "Name": "SANDIP DIGAR",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SABUJ MONDAL LBST0746)",
@@ -3927,7 +5671,11 @@
       "Name": "SABUJ MONDAL",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "BISWAJIT TUNG LBST0747)",
@@ -3936,7 +5684,11 @@
       "Name": "BISWAJIT TUNG",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SOUMEN PARIA LBST0749)",
@@ -3945,7 +5697,11 @@
       "Name": "SOUMEN PARIA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SANJIB JANA LBST0754)",
@@ -3954,7 +5710,11 @@
       "Name": "SANJIB JANA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SK OBAIDULLA LBST0762)",
@@ -3963,7 +5723,11 @@
       "Name": "SK OBAIDULLA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SOMNATH JANA LBST0790)",
@@ -3972,7 +5736,11 @@
       "Name": "SOMNATH JANA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "PRANAY PURKAIT LBST0800)",
@@ -3981,7 +5749,11 @@
       "Name": "PRANAY PURKAIT",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SOUMEN BHUNIA LBST0801)",
@@ -3990,7 +5762,11 @@
       "Name": "SOUMEN BHUNIA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SOUVIK PATRA LBST0823)",
@@ -3999,7 +5775,11 @@
       "Name": "SOUVIK PATRA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "PRADIP SASMAL LBST0825)",
@@ -4008,7 +5788,11 @@
       "Name": "PRADIP SASMAL",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "RAVI KUMAR SAW LBST0845)",
@@ -4017,7 +5801,11 @@
       "Name": "RAVI KUMAR SAW",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "MANOHAR MAHTO LBST0846)",
@@ -4026,7 +5814,11 @@
       "Name": "MANOHAR MAHTO",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "VIVEK KUMAR OJHA LBST0848)",
@@ -4035,7 +5827,11 @@
       "Name": "VIVEK KUMAR OJHA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "ROSHAN PRASAD LBST0855)",
@@ -4044,7 +5840,11 @@
       "Name": "ROSHAN PRASAD",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "PRITAM PRAMANIK LBST0874)",
@@ -4053,7 +5853,11 @@
       "Name": "PRITAM PRAMANIK",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SUDIP MONDAL LBST0876)",
@@ -4062,7 +5866,11 @@
       "Name": "SUDIP MONDAL",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "ABHIJIT BHUNIA LBST0877)",
@@ -4071,7 +5879,11 @@
       "Name": "ABHIJIT BHUNIA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SUBRATA SAMANTA LBST0884)",
@@ -4080,7 +5892,11 @@
       "Name": "SUBRATA SAMANTA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SIDDHARTHA SHUKLA LBST0895)",
@@ -4089,7 +5905,11 @@
       "Name": "SIDDHARTHA SHUKLA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "PRASENJIT PAL LBST0901)",
@@ -4098,7 +5918,11 @@
       "Name": "PRASENJIT PAL",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SOVAN KHATUA LBST0908)",
@@ -4107,7 +5931,11 @@
       "Name": "SOVAN KHATUA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Madhusudan Das LBST0916)",
@@ -4116,7 +5944,11 @@
       "Name": "Madhusudan Das",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Soumitra Saha LBST0920)",
@@ -4125,7 +5957,11 @@
       "Name": "Soumitra Saha",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Suvankar Bhowmik LBST0925)",
@@ -4134,7 +5970,11 @@
       "Name": "Suvankar Bhowmik",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SK Sahil LBST0930)",
@@ -4143,7 +5983,11 @@
       "Name": "SK Sahil",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Abdur Rahaman Mondal LBST0941)",
@@ -4152,7 +5996,11 @@
       "Name": "Abdur Rahaman Mondal",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Priyanka Halder LBST0944)",
@@ -4161,7 +6009,11 @@
       "Name": "Priyanka Halder",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Md Hasnain LBST0986)",
@@ -4170,7 +6022,11 @@
       "Name": "Md Hasnain",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Soumen Kumar Jana LBST0989)",
@@ -4179,7 +6035,11 @@
       "Name": "Soumen Kumar Jana",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dipankar Karan LBST0992)",
@@ -4188,7 +6048,11 @@
       "Name": "Dipankar Karan",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sk Sahil Alam LBST0994)",
@@ -4197,7 +6061,11 @@
       "Name": "Sk Sahil Alam",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sk Jamshed Uddin LBST1008)",
@@ -4206,7 +6074,11 @@
       "Name": "Sk Jamshed Uddin",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Gourhari Patra LBST1011)",
@@ -4215,7 +6087,11 @@
       "Name": "Gourhari Patra",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Raja Pakhira LBST1022)",
@@ -4224,7 +6100,11 @@
       "Name": "Raja Pakhira",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Monoranjan Khanra LBST1064)",
@@ -4233,7 +6113,11 @@
       "Name": "Monoranjan Khanra",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sk Monjur Alam LBST1067)",
@@ -4242,7 +6126,11 @@
       "Name": "Sk Monjur Alam",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Ankit Mishra LBST1078)",
@@ -4251,7 +6139,11 @@
       "Name": "Ankit Mishra",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Bikash Samanta LBST1082)",
@@ -4260,7 +6152,11 @@
       "Name": "Bikash Samanta",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SK MASUDUL HOSSAIN LBST1087)",
@@ -4269,7 +6165,11 @@
       "Name": "SK MASUDUL HOSSAIN",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "DIBYENDU MANDAL LBST1098)",
@@ -4278,7 +6178,11 @@
       "Name": "DIBYENDU MANDAL",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Satwik Tripathi LBST1101)",
@@ -4287,7 +6191,11 @@
       "Name": "Satwik Tripathi",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Pankaj Kumar Samal LBST1135)",
@@ -4296,7 +6204,11 @@
       "Name": "Pankaj Kumar Samal",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Soumen Mandal LBST1137)",
@@ -4305,7 +6217,11 @@
       "Name": "Soumen Mandal",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Dharmadas Manna LBST1138)",
@@ -4314,7 +6230,11 @@
       "Name": "Dharmadas Manna",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Amit Bhunia LBST1141)",
@@ -4323,7 +6243,11 @@
       "Name": "Amit Bhunia",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Atanu Dutta LBST1142)",
@@ -4332,7 +6256,11 @@
       "Name": "Atanu Dutta",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Durgasankar Bag LBST1143)",
@@ -4341,7 +6269,11 @@
       "Name": "Durgasankar Bag",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Naba Kumar Shit LBST1146)",
@@ -4350,7 +6282,11 @@
       "Name": "Naba Kumar Shit",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Subrata Pramanick LBST1147)",
@@ -4359,7 +6295,11 @@
       "Name": "Subrata Pramanick",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "RABISANKAR PARUA LBST1150)",
@@ -4368,7 +6308,11 @@
       "Name": "RABISANKAR PARUA",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SUSHOVAN MAITY LBST1151)",
@@ -4377,7 +6321,11 @@
       "Name": "SUSHOVAN MAITY",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Soumen Das LBST1155)",
@@ -4386,7 +6334,11 @@
       "Name": "Soumen Das",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sanjit Ruidas LBST1160)",
@@ -4395,7 +6347,11 @@
       "Name": "Sanjit Ruidas",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "SANTU MAJUMDER LBST1175)",
@@ -4404,7 +6360,11 @@
       "Name": "SANTU MAJUMDER",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Rakesh Kumar Sah PEW00136)",
@@ -4413,7 +6373,11 @@
       "Name": "Rakesh Kumar Sah",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Gopal Bera PEW00140)",
@@ -4422,7 +6386,11 @@
       "Name": "Gopal Bera",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Souvik Parya PEW00143)",
@@ -4431,7 +6399,11 @@
       "Name": "Souvik Parya",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Akash Babasaheb Kirtike PEW00147)",
@@ -4440,7 +6412,11 @@
       "Name": "Akash Babasaheb Kirtike",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Aashish Kumar Rawani PEW00157)",
@@ -4449,7 +6425,11 @@
       "Name": "Aashish Kumar Rawani",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Omprakash Chourasia PEW00159)",
@@ -4458,7 +6438,11 @@
       "Name": "Omprakash Chourasia",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Sayantan Ghosh PEW00160)",
@@ -4467,7 +6451,11 @@
       "Name": "Sayantan Ghosh",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Pritam Sharma PEW00161)",
@@ -4476,7 +6464,11 @@
       "Name": "Pritam Sharma",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "MD Jiaul Islam PEW00166)",
@@ -4485,7 +6477,11 @@
       "Name": "MD Jiaul Islam",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Tanmoy Dey PEW00171)",
@@ -4494,7 +6490,11 @@
       "Name": "Tanmoy Dey",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
       "Employee": "Suvra Kanti Kumar PEW00172)",
@@ -4503,10 +6503,18 @@
       "Name": "Suvra Kanti Kumar",
       "Current Sum Insured": 0,
       "Current Monthly Premium": 0,
-      "Proposed Sum insured": "300000"
+      "Proposed Sum insured": "300000",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     },
     {
-      "Proposed Sum insured": " "
+      "Proposed Sum insured": " ",
+      "Spouse": "Yes",
+      "Parent": 2,
+      "Children": 1,
+      "New Monthly Premium": 0
     }
   ]
 }
