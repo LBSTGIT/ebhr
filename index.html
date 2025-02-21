@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Details Lookup</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        select, div {
+            margin-top: 10px;
+        }
+        .container {
+            width: 50%;
+            margin: auto;
+        }
+        .box {
+            border: 1px solid #ccc;
+            padding: 15px;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+            margin-top: 10px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Select a User</h2>
+    <div class="container">
+        <select id="userDropdown" onchange="showDetails()">
+            <option value="">-- Select a Name --</option>
+        </select>
+
+        <div class="box" id="detailsBox">
+            <p><strong>Detail 1:</strong> <span id="detail1"></span></p>
+            <p><strong>Detail 2:</strong> <span id="detail2"></span></p>
+            <p><strong>Detail 3:</strong> <span id="detail3"></span></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
