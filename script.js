@@ -18,24 +18,19 @@ document.addEventListener("DOMContentLoaded", function () {
         .then(data => {
             employees = data.Active_Master;
             populateEmployeeDropdown();
-        })
-        .catch(error => console.error("Error fetching employee data:", error));
+        });
 
     function populateEmployeeDropdown() {
         let dropdown = document.getElementById("employeeSelect");
-        dropdown.innerHTML = '<option value="">Select an Employee</option>'; 
-
         employees.forEach(emp => {
             let option = document.createElement("option");
             option.value = emp["Employee Code"];
             option.textContent = emp.Employee;
             dropdown.appendChild(option);
         });
-
-        dropdown.addEventListener("change", updateEmployeeDetails);
     }
 
-    function updateEmployeeDetails() {
+    window.updateEmployeeDetails = function () {
         let selectedCode = document.getElementById("employeeSelect").value;
         let selectedEmployee = employees.find(emp => emp["Employee Code"] === selectedCode);
         if (!selectedEmployee) return;
@@ -47,20 +42,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
         let premiums = gradePremiums[selectedEmployee.Level] || { self: 0, kid: 0, parent: 0, spouse: 0 };
         document.getElementById("newPremium").textContent = premiums.self;
-        document.getElementById("selfPremium").textContent = premiums.self;
-
         document.getElementById("spousePremium").textContent = premiums.spouse;
         document.getElementById("parentPremium").textContent = premiums.parent;
         document.getElementById("childrenPremium").textContent = premiums.kid;
+    };
 
-        document.getElementById("spouseCheck").checked = selectedEmployee.Spouse === "Yes";
-        document.getElementById("parentSelect").value = selectedEmployee.Parent || 0;
-        document.getElementById("childrenInput").value = selectedEmployee.Children || 0;
-
-        calculateTotal();
-    }
-
-    function calculateTotal() {
+    window.calculateTotal = function () {
         let selectedCode = document.getElementById("employeeSelect").value;
         let selectedEmployee = employees.find(emp => emp["Employee Code"] === selectedCode);
         if (!selectedEmployee) return;
@@ -74,10 +61,23 @@ document.addEventListener("DOMContentLoaded", function () {
         let spouseTotal = spouseChecked ? premiums.spouse : 0;
         let parentTotal = parentCount * premiums.parent;
         let childrenTotal = childCount * premiums.kid;
-        let selfTotal = premiums.self; 
 
         let dependentTotal = spouseTotal + parentTotal + childrenTotal;
+        document.getElementById("dependentTotal").textContent = dependentTotal;
 
-        document.getElementById("spouseTotal").textContent = spouseTotal;
-        document.getElementById("parentTotal").textContent = parentTotal;
-        document.getElementBy
+        let selfPremium = premiums.self;
+        document.getElementById("selfPremium").textContent = selfPremium;
+
+        let grandTotal = selfPremium + dependentTotal;
+        document.getElementById("totalPremium").textContent = grandTotal;
+    };
+
+    window.updateActiveMaster = function () {
+        let selectedCode = document.getElementById("employeeSelect").value;
+        let selectedEmployee = employees.find(emp => emp["Employee Code"] === selectedCode);
+        if (!selectedEmployee) return;
+
+        selectedEmployee.NewMonthlyPremium = parseInt(document.getElementById("totalPremium").textContent, 10);
+        console.log("Updated Active_Master:", employees);
+    };
+});
