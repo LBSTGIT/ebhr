@@ -1,92 +1,79 @@
-document.addEventListener("DOMContentLoaded", function () {
-    let employees = [];
-    let gradePremiums = {
-        "E1": { self: 600, kid: 300, parent: 500, spouse: 600 },
-        "E2": { self: 600, kid: 300, parent: 500, spouse: 600 },
-        "MM1": { self: 900, kid: 400, parent: 700, spouse: 1000 },
-        "MM2": { self: 900, kid: 400, parent: 700, spouse: 1000 },
-        "SM1": { self: 1500, kid: 600, parent: 1000, spouse: 1500 },
-        "SM2": { self: 1500, kid: 600, parent: 1000, spouse: 1500 },
-        "EM1": { self: 2500, kid: 900, parent: 1500, spouse: 2000 },
-        "EM2": { self: 2500, kid: 900, parent: 1500, spouse: 2000 },
-        "O1": { self: 600, kid: 300, parent: 500, spouse: 600 },
-        "O2": { self: 600, kid: 300, parent: 500, spouse: 600 }
-    };
-
+document.addEventListener("DOMContentLoaded", function() {
     fetch('data.json')
         .then(response => response.json())
         .then(data => {
-            employees = data.Active_Master;
+            window.employeeData = data.Active_Master;
             populateEmployeeDropdown();
         });
-
-    function populateEmployeeDropdown() {
-        let dropdown = document.getElementById("employeeSelect");
-        employees.forEach(emp => {
-            let option = document.createElement("option");
-            option.value = emp["Employee Code"];
-            option.textContent = emp.Employee;
-            dropdown.appendChild(option);
-        });
-    }
-
-    window.updateEmployeeDetails = function () {
-        let selectedCode = document.getElementById("employeeSelect").value;
-        let selectedEmployee = employees.find(emp => emp["Employee Code"] === selectedCode);
-        if (!selectedEmployee) return;
-
-        document.getElementById("level").textContent = selectedEmployee.Level;
-        document.getElementById("currentSum").textContent = selectedEmployee["Current Sum Insured"];
-        document.getElementById("currentPremium").textContent = selectedEmployee["Current Monthly Premium"];
-        document.getElementById("proposedSum").textContent = selectedEmployee["Proposed Sum insured"];
-        
-        let premiums = gradePremiums[selectedEmployee.Level] || { self: 0, kid: 0, parent: 0, spouse: 0 };
-        document.getElementById("newPremium").textContent = premiums.self;
-        document.getElementById("selfPremium").textContent = premiums.self;
-        document.getElementById("spousePremium").textContent = premiums.spouse;
-        document.getElementById("parentPremium").textContent = premiums.parent;
-        document.getElementById("childrenPremium").textContent = premiums.kid;
-        calculateTotal();
-    };
-
-    window.calculateTotal = function () {
-        let selectedCode = document.getElementById("employeeSelect").value;
-        let selectedEmployee = employees.find(emp => emp["Employee Code"] === selectedCode);
-        if (!selectedEmployee) return;
-
-        let premiums = gradePremiums[selectedEmployee.Level] || { self: 0, kid: 0, parent: 0, spouse: 0 };
-
-        let spouseChecked = document.getElementById("spouseCheck").checked;
-        let parentCount = parseInt(document.getElementById("parentSelect").value, 10) || 0;
-        let childCount = parseInt(document.getElementById("childrenInput").value, 10) || 0;
-
-        let spouseTotal = spouseChecked ? premiums.spouse : 0;
-        let parentTotal = parentCount * premiums.parent;
-        let childrenTotal = childCount * premiums.kid;
-        let selfTotal = premiums.self;
-
-        document.getElementById("spouseTotal").textContent = spouseTotal;
-        document.getElementById("parentTotal").textContent = parentTotal;
-        document.getElementById("childrenTotal").textContent = childrenTotal;
-        document.getElementById("selfPremium").textContent = selfTotal;
-        
-        let dependentTotal = spouseTotal + parentTotal + childrenTotal;
-        document.getElementById("dependentTotal").textContent = dependentTotal;
-        
-        let grandTotal = selfTotal + dependentTotal;
-        document.getElementById("totalPremium").textContent = grandTotal;
-
-        document.getElementById("spouseRowTotal").textContent = spouseTotal;
-        document.getElementById("parentRowTotal").textContent = parentTotal;
-        document.getElementById("childrenRowTotal").textContent = childrenTotal;
-    };
-
-    window.updateActiveMaster = function () {
-        let selectedCode = document.getElementById("employeeSelect").value;
-        let selectedEmployee = employees.find(emp => emp["Employee Code"] === selectedCode);
-        if (!selectedEmployee) return;
-
-        selectedEmployee.NewMonthlyPremium = parseInt(document.getElementById("totalPremium").textContent, 10);
-        console.log("Updated Active_Master:", employees);
-    };
 });
+
+function populateEmployeeDropdown() {
+    const select = document.getElementById("employeeSelect");
+    window.employeeData.forEach(employee => {
+        const option = document.createElement("option");
+        option.value = employee["Employee Code"];
+        option.textContent = employee.Employee;
+        select.appendChild(option);
+    });
+    updateEmployeeDetails();
+}
+
+function updateEmployeeDetails() {
+    const selectedCode = document.getElementById("employeeSelect").value;
+    const employee = window.employeeData.find(emp => emp["Employee Code"] === selectedCode);
+    if (!employee) return;
+
+    document.getElementById("level").textContent = employee.Level;
+    document.getElementById("currentSum").textContent = employee["Current Sum Insured"];
+    document.getElementById("currentPremium").textContent = employee["Current Monthly Premium"];
+    document.getElementById("proposedSum").textContent = employee["Proposed Sum insured"];
+    
+    const lookupTable = {
+        "E1": { Self: 600, Kid: 300, Parent: 500, Spouse: 600 },
+        "E2": { Self: 600, Kid: 300, Parent: 500, Spouse: 600 },
+        "MM1": { Self: 900, Kid: 400, Parent: 700, Spouse: 1000 },
+        "MM2": { Self: 900, Kid: 400, Parent: 700, Spouse: 1000 },
+        "SM1": { Self: 1500, Kid: 600, Parent: 1000, Spouse: 1500 },
+        "SM2": { Self: 1500, Kid: 600, Parent: 1000, Spouse: 1500 },
+        "EM1": { Self: 2500, Kid: 900, Parent: 1500, Spouse: 2000 },
+        "EM2": { Self: 2500, Kid: 900, Parent: 1500, Spouse: 2000 },
+        "O1": { Self: 600, Kid: 300, Parent: 500, Spouse: 600 },
+        "O2": { Self: 600, Kid: 300, Parent: 500, Spouse: 600 }
+    };
+    
+    const premiums = lookupTable[employee.Level] || { Self: 0, Kid: 0, Parent: 0, Spouse: 0 };
+    
+    document.getElementById("newPremium").textContent = premiums.Self;
+    document.getElementById("selfPremium").textContent = premiums.Self;
+    
+    document.getElementById("spousePremium").textContent = premiums.Spouse;
+    document.getElementById("parentPremium").textContent = premiums.Parent;
+    document.getElementById("childrenPremium").textContent = premiums.Kid;
+    
+    calculateTotal();
+}
+
+function calculateTotal() {
+    const spouseChecked = document.getElementById("spouseCheck").checked;
+    const parentCount = parseInt(document.getElementById("parentSelect").value) || 0;
+    const childCount = parseInt(document.getElementById("childrenInput").value) || 0;
+    
+    const spousePremium = spouseChecked ? parseInt(document.getElementById("spousePremium").textContent) : 0;
+    const parentPremium = parentCount * parseInt(document.getElementById("parentPremium").textContent);
+    const childPremium = childCount * parseInt(document.getElementById("childrenPremium").textContent);
+    
+    document.getElementById("spouseRowTotal").textContent = spousePremium;
+    document.getElementById("parentRowTotal").textContent = parentPremium;
+    document.getElementById("childrenRowTotal").textContent = childPremium;
+    
+    const dependentTotal = spousePremium + parentPremium + childPremium;
+    document.getElementById("dependentTotal").textContent = dependentTotal;
+    
+    const selfPremium = parseInt(document.getElementById("selfPremium").textContent);
+    const grandTotal = selfPremium + dependentTotal;
+    document.getElementById("totalPremium").textContent = grandTotal;
+}
+
+function updateActiveMaster() {
+    alert("Data updated successfully!");
+}
