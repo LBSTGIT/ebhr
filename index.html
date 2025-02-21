@@ -47,16 +47,16 @@
                 <td id="spouseTotal">0</td>
             </tr>
             <tr>
-                <td>Parent 1</td>
-                <td id="parent1Premium">0</td>
-                <td><input type="checkbox" id="parent1Check" onchange="calculateTotal()"></td>
-                <td id="parent1Total">0</td>
-            </tr>
-            <tr>
-                <td>Parent 2</td>
-                <td id="parent2Premium">0</td>
-                <td><input type="checkbox" id="parent2Check" onchange="calculateTotal()"></td>
-                <td id="parent2Total">0</td>
+                <td>Parent(s)</td>
+                <td id="parentPremium">0</td>
+                <td>
+                    <select id="parentSelect" onchange="calculateTotal()">
+                        <option value="0">None</option>
+                        <option value="1">One Parent</option>
+                        <option value="2">Both Parents</option>
+                    </select>
+                </td>
+                <td id="parentTotal">0</td>
             </tr>
             <tr>
                 <td>Children</td>
