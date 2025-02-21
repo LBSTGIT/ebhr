@@ -4,13 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Employee Insurance Selection</title>
-    <script src="script.js" defer></script>
+    <script defer src="script.js"></script>
 </head>
 <body>
     <h1>Employee Insurance Selection</h1>
-
+    
     <label for="employeeSelect">Select Employee:</label>
-    <select id="employeeSelect"></select>
+    <select id="employeeSelect" onchange="updateEmployeeDetails()">
+        <option value="">-- Select --</option>
+    </select>
 
     <h2>Employee Details</h2>
     <p><strong>Level:</strong> <span id="level">-</span></p>
@@ -18,45 +20,49 @@
     <p><strong>Current Monthly Premium:</strong> <span id="currentPremium">-</span></p>
     <p><strong>Proposed Sum Insured:</strong> <span id="proposedSum">-</span></p>
     <p><strong>New Monthly Premium (Self):</strong> <span id="newPremium">-</span></p>
-
+    
     <h2>Dependent Insurance Selection</h2>
     <table border="1">
-        <tr>
-            <th>Dependent</th>
-            <th>Monthly Premium</th>
-            <th>Response</th>
-            <th>Total Premium</th>
-        </tr>
-        <tr>
-            <td>Spouse</td>
-            <td id="spousePremium">0</td>
-            <td><input type="checkbox" id="spouseCheck"></td>
-            <td id="spouseTotal">0</td>
-        </tr>
-        <tr>
-            <td>Parent(s)</td>
-            <td id="parentPremium">0</td>
-            <td>
-                <select id="parentSelect">
-                    <option value="0">None</option>
-                    <option value="1">One Parent</option>
-                    <option value="2">Two Parents</option>
-                </select>
-            </td>
-            <td id="parentTotal">0</td>
-        </tr>
-        <tr>
-            <td>Children</td>
-            <td id="childrenPremium">0</td>
-            <td><input type="number" id="childrenInput" min="0" value="0"></td>
-            <td id="childrenTotal">0</td>
-        </tr>
+        <thead>
+            <tr>
+                <th>Dependent</th>
+                <th>Monthly Premium</th>
+                <th>Response</th>
+                <th>Total Premium</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Spouse</td>
+                <td id="spousePremium">0</td>
+                <td><input type="checkbox" id="spouseCheck" onchange="calculateTotal()"></td>
+                <td id="spouseTotal">0</td>
+            </tr>
+            <tr>
+                <td>Parent(s)</td>
+                <td id="parentPremium">0</td>
+                <td>
+                    <select id="parentSelect" onchange="calculateTotal()">
+                        <option value="0">None</option>
+                        <option value="1">One Parent</option>
+                        <option value="2">Two Parents</option>
+                    </select>
+                </td>
+                <td id="parentTotal">0</td>
+            </tr>
+            <tr>
+                <td>Children</td>
+                <td id="childrenPremium">0</td>
+                <td><input type="number" id="childrenInput" value="0" min="0" onchange="calculateTotal()"></td>
+                <td id="childrenTotal">0</td>
+            </tr>
+        </tbody>
     </table>
-
-    <h3>Self Premium: <span id="selfPremium">0</span></h3>
-    <h3>Dependent Total: <span id="dependentTotal">0</span></h3>
-    <h2>Grand Total Premium: <span id="totalPremium">0</span></h2>
-
-    <button id="updateButton">Update</button>
+    
+    <p><strong>Self Premium:</strong> <span id="selfPremium">0</span></p>
+    <p><strong>Dependent Total:</strong> <span id="dependentTotal">0</span></p>
+    <p><strong>Grand Total Premium:</strong> <span id="totalPremium">0</span></p>
+    
+    <button onclick="updateActiveMaster()">Update</button>
 </body>
 </html>
