@@ -3,46 +3,88 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User Details Lookup</title>
+    <title>Employee Insurance Form</title>
+    <script src="script.js" defer></script>
     <style>
-        body {
-            font-family: Arial, sans-serif;
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 8px;
             text-align: center;
-            margin: 50px;
         }
-        select, div {
-            margin-top: 10px;
-        }
-        .container {
-            width: 50%;
-            margin: auto;
-        }
-        .box {
-            border: 1px solid #ccc;
-            padding: 15px;
-            border-radius: 8px;
-            background-color: #f9f9f9;
-            margin-top: 10px;
-            display: none;
+        th {
+            background-color: #f2f2f2;
         }
     </style>
+    <script>
+        function calculateTotal() {
+            const spouseChecked = document.getElementById("spouseCheck").checked;
+            const parentCount = parseInt(document.getElementById("parentSelect").value, 10);
+            const childrenCount = parseInt(document.getElementById("childrenInput").value, 10);
+            
+            const spousePremium = parseInt(document.getElementById("spousePremium").innerText, 10);
+            const parentPremium = parseInt(document.getElementById("parentPremium").innerText, 10);
+            const childrenPremium = parseInt(document.getElementById("childrenPremium").innerText, 10);
+            
+            document.getElementById("spouseTotal").innerText = spouseChecked ? spousePremium : 0;
+            document.getElementById("parentTotal").innerText = parentCount * parentPremium;
+            document.getElementById("childrenTotal").innerText = childrenCount * childrenPremium;
+            
+            const total = (spouseChecked ? spousePremium : 0) + (parentCount * parentPremium) + (childrenCount * childrenPremium);
+            document.getElementById("totalPremium").innerText = total;
+        }
+    </script>
 </head>
 <body>
-
-    <h2>Select a User</h2>
-    <div class="container">
-        <select id="userDropdown" onchange="showDetails()">
-            <option value="">-- Select a Name --</option>
-        </select>
-
-        <div class="box" id="detailsBox">
-            <p><strong>Detail 1:</strong> <span id="detail1"></span></p>
-            <p><strong>Detail 2:</strong> <span id="detail2"></span></p>
-            <p><strong>Detail 3:</strong> <span id="detail3"></span></p>
-        </div>
-    </div>
-
-    <script src="script.js"></script>
-
+    <h2>Employee Insurance Selection</h2>
+    <label for="employeeSelect">Select Employee:</label>
+    <select id="employeeSelect" onchange="updateEmployeeDetails()">
+        <option value="">-- Select --</option>
+    </select>
+    
+    <h3>Employee Details</h3>
+    <p><strong>Level:</strong> <span id="level"></span></p>
+    <p><strong>Current Sum Insured:</strong> <span id="currentSum"></span></p>
+    <p><strong>Proposed Sum Insured:</strong> <span id="proposedSum"></span></p>
+    
+    <h3>Dependent Insurance Selection</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Dependent</th>
+                <th>Monthly Premium</th>
+                <th>Response</th>
+                <th>Total Premium</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Spouse</td>
+                <td id="spousePremium">0</td>
+                <td><input type="checkbox" id="spouseCheck" onchange="calculateTotal()"></td>
+                <td id="spouseTotal">0</td>
+            </tr>
+            <tr>
+                <td>Parent(s)</td>
+                <td id="parentPremium">0</td>
+                <td>
+                    <select id="parentSelect" onchange="calculateTotal()">
+                        <option value="0">None</option>
+                        <option value="1">One Parent</option>
+                        <option value="2">Both Parents</option>
+                    </select>
+                </td>
+                <td id="parentTotal">0</td>
+            </tr>
+            <tr>
+                <td>Children</td>
+                <td id="childrenPremium">0</td>
+                <td><input type="number" id="childrenInput" min="0" value="0" onchange="calculateTotal()"></td>
+                <td id="childrenTotal">0</td>
+            </tr>
+        </tbody>
+    </table>
+    <h3>Total Premium: <span id="totalPremium">0</span></h3>
+    <button onclick="updateActiveMaster()">Update</button>
 </body>
 </html>
