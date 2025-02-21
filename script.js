@@ -76,28 +76,8 @@ document.addEventListener("DOMContentLoaded", function () {
         let childrenTotal = childCount * premiums.kid;
         let selfTotal = premiums.self; 
 
+        let dependentTotal = spouseTotal + parentTotal + childrenTotal;
+
         document.getElementById("spouseTotal").textContent = spouseTotal;
         document.getElementById("parentTotal").textContent = parentTotal;
-        document.getElementById("childrenTotal").textContent = childrenTotal;
-        document.getElementById("selfPremium").textContent = selfTotal;
-
-        let total = selfTotal + spouseTotal + parentTotal + childrenTotal;
-        document.getElementById("totalPremium").textContent = total;
-    }
-
-    function updateActiveMaster() {
-        let selectedCode = document.getElementById("employeeSelect").value;
-        let selectedEmployee = employees.find(emp => emp["Employee Code"] === selectedCode);
-        if (!selectedEmployee) return;
-
-        selectedEmployee.NewMonthlyPremium = parseInt(document.getElementById("totalPremium").textContent, 10);
-
-        console.log("Updated Active_Master:", employees);
-        alert("Premium updated successfully!");
-    }
-
-    document.getElementById("spouseCheck").addEventListener("change", calculateTotal);
-    document.getElementById("parentSelect").addEventListener("change", calculateTotal);
-    document.getElementById("childrenInput").addEventListener("input", calculateTotal);
-    document.getElementById("updateButton").addEventListener("click", updateActiveMaster);
-});
+        document.getElementBy
