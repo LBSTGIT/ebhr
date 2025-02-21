@@ -46,6 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("spousePremium").textContent = premiums.spouse;
         document.getElementById("parentPremium").textContent = premiums.parent;
         document.getElementById("childrenPremium").textContent = premiums.kid;
+        calculateTotal();
     };
 
     window.calculateTotal = function () {
@@ -56,8 +57,8 @@ document.addEventListener("DOMContentLoaded", function () {
         let premiums = gradePremiums[selectedEmployee.Level] || { self: 0, kid: 0, parent: 0, spouse: 0 };
 
         let spouseChecked = document.getElementById("spouseCheck").checked;
-        let parentCount = parseInt(document.getElementById("parentSelect").value, 10);
-        let childCount = parseInt(document.getElementById("childrenInput").value, 10);
+        let parentCount = parseInt(document.getElementById("parentSelect").value, 10) || 0;
+        let childCount = parseInt(document.getElementById("childrenInput").value, 10) || 0;
 
         let spouseTotal = spouseChecked ? premiums.spouse : 0;
         let parentTotal = parentCount * premiums.parent;
@@ -74,6 +75,10 @@ document.addEventListener("DOMContentLoaded", function () {
         
         let grandTotal = selfTotal + dependentTotal;
         document.getElementById("totalPremium").textContent = grandTotal;
+
+        document.getElementById("spouseRowTotal").textContent = spouseTotal;
+        document.getElementById("parentRowTotal").textContent = parentTotal;
+        document.getElementById("childrenRowTotal").textContent = childrenTotal;
     };
 
     window.updateActiveMaster = function () {
