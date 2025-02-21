@@ -16,24 +16,6 @@
             background-color: #f2f2f2;
         }
     </style>
-    <script>
-        function calculateTotal() {
-            const spouseChecked = document.getElementById("spouseCheck").checked;
-            const parentCount = parseInt(document.getElementById("parentSelect").value, 10);
-            const childrenCount = parseInt(document.getElementById("childrenInput").value, 10);
-            
-            const spousePremium = parseInt(document.getElementById("spousePremium").innerText, 10);
-            const parentPremium = parseInt(document.getElementById("parentPremium").innerText, 10);
-            const childrenPremium = parseInt(document.getElementById("childrenPremium").innerText, 10);
-            
-            document.getElementById("spouseTotal").innerText = spouseChecked ? spousePremium : 0;
-            document.getElementById("parentTotal").innerText = parentCount * parentPremium;
-            document.getElementById("childrenTotal").innerText = childrenCount * childrenPremium;
-            
-            const total = (spouseChecked ? spousePremium : 0) + (parentCount * parentPremium) + (childrenCount * childrenPremium);
-            document.getElementById("totalPremium").innerText = total;
-        }
-    </script>
 </head>
 <body>
     <h2>Employee Insurance Selection</h2>
@@ -65,16 +47,16 @@
                 <td id="spouseTotal">0</td>
             </tr>
             <tr>
-                <td>Parent(s)</td>
-                <td id="parentPremium">0</td>
-                <td>
-                    <select id="parentSelect" onchange="calculateTotal()">
-                        <option value="0">None</option>
-                        <option value="1">One Parent</option>
-                        <option value="2">Both Parents</option>
-                    </select>
-                </td>
-                <td id="parentTotal">0</td>
+                <td>Parent 1</td>
+                <td id="parent1Premium">0</td>
+                <td><input type="checkbox" id="parent1Check" onchange="calculateTotal()"></td>
+                <td id="parent1Total">0</td>
+            </tr>
+            <tr>
+                <td>Parent 2</td>
+                <td id="parent2Premium">0</td>
+                <td><input type="checkbox" id="parent2Check" onchange="calculateTotal()"></td>
+                <td id="parent2Total">0</td>
             </tr>
             <tr>
                 <td>Children</td>
